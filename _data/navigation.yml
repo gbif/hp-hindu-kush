@@ -2,18 +2,8 @@
 
 - text: About
   href: /about
-# - text: Occurrences
-#   href: /occurrence/search
-- text: Data
-  menu: 
-  - text: Specimens
-    href: /occurrence/search
-  - text: Datasets
-    href: /dataset/search
-  - text: Collections
-    href: /collection/search
-  - text: Literature
-    href: /literature/search
+- text: Occurrence records
+  href: /occurrence/search
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
