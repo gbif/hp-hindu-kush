@@ -2,3 +2,8 @@
 
 // You can add additional styling here
 @import "_example";
+
+// the logo looks off center. move it down 10 px
+.navbar-item.navbar-logo {
+  margin-bottom: -10px;
+}
