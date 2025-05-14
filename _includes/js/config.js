@@ -195,26 +195,12 @@ var siteConfig = {
             "defaultProjection": "MERCATOR",
             "defaultMapStyle": "BOUNDARY",
             "options": {
-                "ARCTIC": [
-                    "NATURAL",
-                    "BRIGHT"
-                ],
-                "PLATE_CAREE": [
-                    "NATURAL",
-                    "BRIGHT",
-                    "DARK"
-                ],
                 "MERCATOR": [
                     "NATURAL",
                     "BRIGHT",
                     "SATELLITE",
                     "DARK",
                     "BOUNDARY"
-                ],
-                "ANTARCTIC": [
-                    "NATURAL",
-                    "BRIGHT",
-                    "DARK"
                 ]
             }
         },
