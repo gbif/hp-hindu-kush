@@ -196,11 +196,11 @@ var siteConfig = {
             "defaultMapStyle": "BOUNDARY",
             "options": {
                 "MERCATOR": [
+                    "BOUNDARY",
                     "NATURAL",
                     "BRIGHT",
                     "SATELLITE",
-                    "DARK",
-                    "BOUNDARY"
+                    "DARK"
                 ]
             }
         },
