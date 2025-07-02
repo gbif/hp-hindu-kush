@@ -13,52 +13,53 @@ stats:
       background: /assets/images/placeholders/collections_small.jpg
       href: /collection/search
     - title: "54 million"
-      description: Digitized specimens
+      description: Digitised specimens
       background: /assets/images/placeholders/specimen.png
 
 couldBeAnyName:
-  title: Virginis socerque
+  title: HKHBIF strategies
   description: |
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
+     The [HKHBIF](/about) is committed to enhancing the understanding and utilisation of biodiversity information in the HKH region. Our strategies focus on several key areas:
   features:
-    - title: Abundantly light years # required
+    - title: Raise Awareness # required
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+        Promote understanding of biodiversity's significance in the HKH region to encourage conservation efforts.
       href: /about
       # img required
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
+      background: /assets/images/placeholders/Raise_Awareness.svg
+      imageLicense: Ramesh Kathariya/ICIMOD
       # categories: [drawings] # optional
-    - title: Fly moving land # required
+    - title: Global Communication # required
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+        Advocate for the worldwide sharing of biodiversity data to inform the public and decision-makers about its importance.
       href: /about
-      background: /assets/images/placeholders/blocks2.png
+      background: /assets/images/placeholders/Global_Communication.svg
       imageLicense: None for this image, but normally you would provide one here
-    - title: Fruitful replenish # required
+    - title: Organisational Strengthening # required
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+        Enhance HKHBIF's presence and expand its network of data holders and publishers to improve collaboration and data accessibility.
       href: /about
-      background: /assets/images/placeholders/blocks2.png
+      background: /assets/images/placeholders/Organisational_Strengthening.svg
       imageLicense: None for this image, but normally you would provide one here
-    - title: Land man dry # required
+    - title: Partnership Development # required
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+        Seek collaborations with other Asian regional nodes to strengthen regional cooperation and resource sharing in biodiversity initiatives.
       href: /about
-      background: /assets/images/placeholders/blocks2.png
+      background: /assets/images/placeholders/Partnership_Development.svg
       imageLicense: None for this image, but normally you would provide one here
-    - title: Abundantly light years # required
+    - title: Showcase Biodiversity # required
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+        Highlight and promote the unique biodiversity of HKH member countries to raise awareness and support for conservation efforts.
       href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
+      background: /assets/images/placeholders/Showcase_Biodiversity.svg
+      imageLicense: Ramesh Kathariya
 
 herbariumImageExample:
   reverse: false
-  title: "Likeness darkness light"
+  title: "About HKHBIF"
   description: |      # required
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
+    The Hindu Kush Himalayan Biodiversity Information Facility (HKHBIF) is dedicated to the collection, publication, and dissemination of biodiversity data from the Hindu Kush Himalayan region.
+    ICIMOD is an associate member of the Global Biodiversity Information Facility (GBIF), and HKHBIF is the GBIF-mediated publishing platform that is hosted by ICIMOD. It is a regional node of GBIF that caters to ICIMOD’s eight regional member countries – Afghanistan, Bangladesh, Bhutan, China, India, Myanmar, Nepal, and Pakistan. The aim is to sensitize biodiversity data holders on the importance of biodiversity data publishing globally, build a network of data holders and publishers from the region, and motivate them to contribute to building biodiversity data for the HKH.
   # img required
   background: https://data.nhm.ac.uk/media/d9850154-9e45-426c-8712-d030da3c1c00
   imageLicense: |
