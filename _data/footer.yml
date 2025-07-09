@@ -4,6 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - name: Partners
+    links:
     - text: National Biodiversity Centre, Bhutan
       href: https://nbc.gov.bt/
     - text: National Science Library, Chinese Academy of Sciences
@@ -27,12 +28,12 @@ columns:
 
 
   - name: Location
-  description: | # Can be Markdown
+    description: | # Can be Markdown
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3359.4181358388155!2d85.3208625752515!3d27.646437476217578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb17700312e753%3A0xb71c1aeecd9d58cc!2sICIMOD!5e1!3m2!1sen!2snp!4v1752026783005!5m2!1sen!2snp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   
-  other: |
-  [HKHBIF at ICIMOD](https://www.icimod.org/ecosystem-services/hkh-bif/)
-  [HKHBIF at GBIF](https://www.gbif.org/participant/320)
+    other: |
+    [HKHBIF at ICIMOD](https://www.icimod.org/ecosystem-services/hkh-bif/)
+    [HKHBIF at GBIF](https://www.gbif.org/participant/320)
   
   # EXAMPLE
   #- name: Group name
