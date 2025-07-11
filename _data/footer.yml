@@ -33,19 +33,19 @@ columns:
 
     
 other: |
-  [HKHBIF at ICIMOD](https://www.icimod.org/ecosystem-services/hkh-bif/)
-  [HKHBIF at GBIF](https://www.gbif.org/participant/320)
+  *[HKHBIF at ICIMOD](https://www.icimod.org/ecosystem-services/hkh-bif/)
+  *[HKHBIF at GBIF](https://www.gbif.org/participant/320)
   
-  # EXAMPLE
-  #- name: Group name
-  #  description: |
-  #    An optional description. Can be markdown
-  #  links: # optional as well
-  #  - text: link title
-  #    href: http://example.com
-  #  - text: link title 2
-  #    href: http://example2.com
-  #  connectIcons: true # optional - show social icons (defined in _config.yml)
+# EXAMPLE
+#- name: Group name
+#  description: |
+#    An optional description. Can be markdown
+#  links: # optional as well
+#  - text: link title
+#    href: http://example.com
+#  - text: link title 2
+#    href: http://example2.com
+#  connectIcons: true # optional - show social icons (defined in _config.yml)
 
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
