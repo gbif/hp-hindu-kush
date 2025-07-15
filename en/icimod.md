@@ -8,6 +8,8 @@ imageLicense: "Ramesh Kathariya, ICIMOD"
 height: 70vh
 
 composition:
+  - type: heroImage
+  - type: pageMarkdown
   - type: media
     inlineData:
       title: Key Focus Area
