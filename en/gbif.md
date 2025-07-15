@@ -10,7 +10,7 @@ height: 70vh
 ---
 
 
-## What is GBIF?
+## About GBIF
 
 The [**Global Biodiversity Information Facility (GBIF)**](https://www.gbif.org/what-is-gbif) is an international open data infrastructure, funded by governments, that allows anyone, anywhere to access data about all types of life on Earth.
 
@@ -18,7 +18,7 @@ GBIF’s mission is to mobilise biodiversity data for scientific research, conse
 
 ---
 
-## How GBIF Works
+## How GBIF Works?
 
 GBIF aggregates biodiversity data from thousands of institutions worldwide. It provides tools and APIs for accessing, analysing, and visualising species occurrence records, taxonomic information, and more.
 
