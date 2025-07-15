@@ -41,14 +41,14 @@ teamSection:
     - title: Sudip Pradhan
       description: Senior Geospatial Application Development Specialist (Node Staff)
       background: /assets/images/sudip_pradhan.jpg
-            details:
+      details:
         bio: Sudip oversees the development of databases, geospatial applications, and information systems. He plays a key role in the SERVIR-HKH initiative, which supports environmental decision-making through satellite data and geospatial tools.
         expertise: Geospatial technology, database systems, environmental data applications
         social:
           linkedin_url: https://www.linkedin.com/in/sudip-pradhan/
     - title: Ramesh Kathariya
       description: Research Associate (Node Staff)
-      background: /assets/imagesramesh_kathariya.jpg
+      background: /assets/images/ramesh_kathariya.jpg
       details:
         bio: Ramesh is an environmental science professional passionate about biodiversity conservation, data analysis, and geospatial technologies. He integrates traditional knowledge with innovative conservation practices to bridge field research, policy engagement, and community outreach.
         expertise: GIS/RS, Data analysis and visualisation, Policy review, Biodiversity metrics, community-based conservation
