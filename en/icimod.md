@@ -61,5 +61,6 @@ Its primary goal is to promote sustainable mountain development by testing, show
 - Community outreach in the Phulchowki watershed
 - [See more ...](https://www.icimod.org/living-mountain-lab/)
 
+##
 
-Visit [ICIMOD.org](www.icimod.org)
+Visit [ICIMOD.org](www.icimod.org) for more.
