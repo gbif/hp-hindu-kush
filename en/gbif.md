@@ -32,18 +32,16 @@ HKHBIF serves as a regional node of GBIF, contributing biodiversity data from th
 
 ## Impact and Use Cases
 
-GBIF data is used in:
-- Climate change research
-- Species distribution modelling
-- Invasive species tracking
-- Environmental policy and planning
+- [Climate change research](https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.70009)
+- [Species distribution modelling](https://iopscience.iop.org/article/10.1088/2515-7620/adbdaf)
+- [Invasive species tracking](https://www.sciencedirect.com/science/article/abs/pii/S1618866725000986?via%3Dihub)
+- [Environmental policy and planning](https://www.gbif.org/data-use#_recent-uses-of-gbif-mediated-data-in-science-policy)
 - [See more ...](https://www.gbif.org/data-use#_hot-off-the-scientific-press)
 
 ---
 
 ## Get Involved
 
-You can:
 - [Publish biodiversity datasets](https://www.gbif.org/publishing-data)
 - [Use GBIF data in your research](https://www.gbif.org/using-gbif-data)
 - [Join the GBIF community forum](https://discourse.gbif.org/)
