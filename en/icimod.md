@@ -11,7 +11,6 @@ composition:
   - type: heroImage
   - type: pageMarkdown
   - type: features
-    data: examples.couldBeAnyName
   - type: split
     data: examples.someOtherNameForSomeData
   - type: media
@@ -81,5 +80,3 @@ Its primary goal is to promote sustainable mountain development by testing, show
 - [See more ...](https://www.icimod.org/living-mountain-lab/)
 
 ---
-
-Visit [ICIMOD.org](www.icimod.org) for more.
