@@ -16,7 +16,7 @@ columns:
 
   - name: Tools
     description: | # Can be Markdown
-      [HKH IPT](http://rds.icimod.org:8080/hkh-bif/)
+      [Integrated Publishing Tool](http://rds.icimod.org:8080/hkh-bif/)
   
   - name: Contact
     description: | # Can be Markdown
