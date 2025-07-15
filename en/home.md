@@ -5,7 +5,7 @@ preTitle: Data portal
 title: Hindu Kush Himalayan Biodiversity Information Facility
 description: Encouraging sharing and use of biodiversity information!
 background:  "assets/images/placeholders/example.jpg"
-imageLicense: Some license and description should go here
+imageLicense: UNSPECIFIED
 height: 90vh
 cta:
   - text: Records
