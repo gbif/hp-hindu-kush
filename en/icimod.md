@@ -48,7 +48,7 @@ ICIMOD hosts the [Hindu Kush Himalayan Biodiversity Information Facility](https:
 
 ICIMOD collaborates with national governments, international organisations, research institutions, and local communities to drive innovation and knowledge sharing.
 
-
+---
 ### Living Mountain lab
 The Living Mountain Lab (formerly known as the ICIMOD Knowledge Park at Godavari) is a training and demonstration centre established by ICIMOD in 1993. Located in Godavari, Lalitpur, Nepal, the Lab spans 30 hectares and serves as a practical extension of ICIMOD’s research and innovation efforts.
 
@@ -61,6 +61,6 @@ Its primary goal is to promote sustainable mountain development by testing, show
 - Community outreach in the Phulchowki watershed
 - [See more ...](https://www.icimod.org/living-mountain-lab/)
 
-##
+---
 
 Visit [ICIMOD.org](www.icimod.org) for more.
