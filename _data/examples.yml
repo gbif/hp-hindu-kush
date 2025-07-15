@@ -28,7 +28,7 @@ cardExample:
         Director General, ICIMOD (Head of Delegation)
       # img required
       background: /assets/images/pema_gyamtsho.jpg
-      3href: /examples
+      href: /examples
 
 
         
