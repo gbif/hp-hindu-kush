@@ -37,6 +37,7 @@ GBIF data is used in:
 - Species distribution modelling
 - Invasive species tracking
 - Environmental policy and planning
+- [See more ...](https://www.gbif.org/data-use#_hot-off-the-scientific-press)
 
 ---
 
