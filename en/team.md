@@ -12,8 +12,8 @@ composition:
   - type: pageMarkdown
   - type: media
     inlineData:
-      title: 
-      description:
+      title: Our Team
+      description: Meet the experts driving biodiversity conservation and sustainable development in the HKH region.
       features:
         - title: "Pema Gyamtsho DG, ICIMOD (Head of Delegation, HKHBIF)"
           description: >
