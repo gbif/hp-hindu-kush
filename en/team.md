@@ -28,13 +28,13 @@ composition:
           background: /assets/images/bandana_shakya.jpg
           imageLicense: ICIMOD
           href: https://www.linkedin.com/in/bandana-shakya-ph-d-9291b51a0/
-        - title: "Sudip Pradhan", Senior Geospatial Application Development Specialist (Node Staff, HKHBIF)
+        - title: "Sudip Pradhan, Senior Geospatial Application Development Specialist (Node Staff, HKHBIF)"
           description: >
             Sudip oversees the development of databases, geospatial applications, and information systems. He plays a key role in the SERVIR-HKH initiative, which supports environmental decision-making through satellite data and geospatial tools.
           background: /assets/images/sudip_pradhan.jpg
           imageLicense: ICIMOD
           href: https://www.linkedin.com/in/sudip-pradhan/
-        - title: "Ramesh Kathariya", Research Associate (Node Staff, HKHBIF)
+        - title: "Ramesh Kathariya, Research Associate (Node Staff, HKHBIF)"
           description: >
             Ramesh is an environmental science professional passionate about biodiversity conservation, data analysis, and geospatial technologies. He integrates traditional knowledge with innovative conservation practices to bridge field research, policy engagement, and community outreach.
           background: /assets/images/ramesh_kathariya.jpg
