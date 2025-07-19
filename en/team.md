@@ -5,7 +5,7 @@ title: "Meet our Team"
 description: Our dedicated team is working together to enhance biodiversity data sharing and conservation efforts in the HKH region.
 background: /assets/images/placeholders/dragonfly.jpg
 imageLicense: "Ramesh Kathariya, ICIMOD"
-height: 70vh
+height: 72vh
 
 composition:
   - type: heroImage
