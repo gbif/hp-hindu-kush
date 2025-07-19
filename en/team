@@ -1,0 +1,56 @@
+---
+permalink: /team
+lang-ref: team
+title: Meet our Team
+description: Collecting data to fill biodiversity data gap
+background: /assets/images/placeholders/pageholder_about.jpg
+imageLicense: |
+  Ramesh Kathariya | ICIMOD
+height: 70vh
+---
+
+
+teamSection:
+  title: Meet Our Team
+  description: |
+    Our dedicated team is working together to enhance biodiversity data sharing and conservation efforts in the HKH region.
+  features:
+    - title: Pema Gyamtsho
+      description: Director General, ICIMOD (Head of Delegation)
+      background: /assets/images/pema_gyamtsho.jpg
+      details:
+        bio: Dr. Pema Gyamtsho leads ICIMOD with a vision to enhance regional cooperation and sustainable development in the Hindu Kush Himalaya. He has a strong background in natural resource management and policy advocacy.
+        expertise: Sustainable development, natural resource management, regional policy coordination
+        social:
+          linkedin_url: https://www.linkedin.com/in/pema-gyamtsho-ph-d-01995b324/
+    - title: Bandana Shakya
+      description: Landscapes Lead, ICIMOD (Node Manager)
+      background: /assets/images/bandana_shakya.jpg
+      details:
+        bio: Dr. Bandana Shakya coordinates ICIMOD’s work on restoring and regenerating landscapes. She leads initiatives such as springshed management, rangeland and wetland restoration, biodiversity incentives, and human-wildlife coexistence solutions.
+        expertise: Landscape restoration, agroecosystem sustainability, nature-based solutions
+        social:
+          linkedin_url: https://www.linkedin.com/in/bandana-shakya-ph-d-9291b51a0/
+    - title: Sudip Pradhan
+      description: Senior Geospatial Application Development Specialist (Node Staff)
+      background: /assets/images/sudip_pradhan.jpg
+      details:
+        bio: Sudip oversees the development of databases, geospatial applications, and information systems. He plays a key role in the SERVIR-HKH initiative, which supports environmental decision-making through satellite data and geospatial tools.
+        expertise: Geospatial technology, database systems, environmental data applications
+        social:
+          linkedin_url: https://www.linkedin.com/in/sudip-pradhan/
+    - title: Ramesh Kathariya
+      description: Research Associate (Node Staff)
+      background: /assets/images/ramesh_kathariya.jpg
+      details:
+        bio: Ramesh is an environmental science professional passionate about biodiversity conservation, data analysis, and geospatial technologies. He integrates traditional knowledge with innovative conservation practices to bridge field research, policy engagement, and community outreach.
+        expertise: GIS/RS, Data analysis and visualisation, Policy review, Biodiversity metrics, community-based conservation
+        email: ramesh.kathariya@icimod.org
+        social:
+          linkedin_url: https://www.linkedin.com/in/rameshkathariya/
+          bluesky_username: ramesh-kathariya.bsky.social
+          instagram_username: ramesh.kathariya
+          github_username:  ramesh-kathariya # if you have an account you want to link to. Else comment this line out
+
+
+---
