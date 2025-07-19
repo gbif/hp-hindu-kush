@@ -1,4 +1,3 @@
----
 stats:
   klass: contentTypesStat
   # title: "type: stats"
@@ -17,9 +16,7 @@ stats:
       description: Digitised specimens
       background: /assets/images/placeholders/specimen.png
 
-composition:
-  - type: pageMarkdown
----
+
 
 ## Meet our Team
 
