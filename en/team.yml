@@ -1,15 +1,3 @@
----
-permalink: /team
-lang-ref: team
-title: Meet our Team
-description:  Our dedicated team is working together to enhance biodiversity data sharing and conservation efforts in the HKH region.
-background: /assets/images/placeholders/pageholder_about.jpg
-imageLicense: |
-  Ramesh Kathariya | ICIMOD
-height: 70vh
----
-
-
 features:
   - title: Pema Gyamtsho
     description: Director General, ICIMOD (Head of Delegation)
