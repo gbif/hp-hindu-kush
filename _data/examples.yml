@@ -1,3 +1,4 @@
+---
 stats:
   klass: contentTypesStat
   # title: "type: stats"
@@ -16,6 +17,21 @@ stats:
       description: Digitised specimens
       background: /assets/images/placeholders/specimen.png
 
+composition:
+  - type: pageMarkdown
+---
+
+## Meet our Team
+
+features:
+  - title: Pema Gyamtsho
+    description: |
+      Director General, ICIMOD<br>
+      Head of Delegation, HKHBIF
+      # img required
+      background: /assets/images/pema_gyamtsho.jpg
+      href: /examples
+
 # Feature cards
 cardExample:
   title: 'Meet our Team'
@@ -25,10 +41,11 @@ cardExample:
     - preTitle:   # optional
       title: Pema Gyamtsho # required
       description: |      # required
-        Director General, ICIMOD (Head of Delegation)
+        Director General, ICIMOD<br>
+        Head of Delegation, HKHBIF
       # img required
       background: /assets/images/pema_gyamtsho.jpg
-      3href: /examples
+      href: /examples
 
 
         
