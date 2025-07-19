@@ -3,7 +3,7 @@ permalink: /icimod
 lang-ref: icimod
 title: ICIMOD
 description: For mountains and people
-background: /assets/images/placeholders/pageholder_about.jpg
+background: /assets/images/placeholders/oriental_magpie_robin.JPG
 imageLicense: "Ramesh Kathariya, ICIMOD"
 height: 70vh
 
