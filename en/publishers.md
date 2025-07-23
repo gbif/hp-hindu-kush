@@ -9,7 +9,7 @@ height: 70vh
 
 
 # Feature cards
-cardExample:
+couldBeAnyName:
   title: HKH Biodiversity Data Champion
   description: |
     Meet our HKH Biodiversity Data Champions who are contributing to filling gaps in biodiversity data
