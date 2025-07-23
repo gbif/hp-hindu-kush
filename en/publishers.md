@@ -4,6 +4,38 @@ lang-ref: publishers
 title: Publishers
 description: meet our Publishers
 background: /assets/images/placeholders/pageholder_about.jpg
-imageLicense: "Ramesh Kathariya | ICIMOD"
+imageLicense: "Ramesh Kathariya, ICIMOD"
 height: 70vh
+
+
+# Feature cards
+cardExample:
+  title: HKH Biodiversity Data Champion
+  description: |
+    Meet our HKH Biodiversity Data Champions who are contributing to filling gaps in biodiversity data
+  features:
+    - preTitle: Profile  # optional
+      title: Phuentsho # required
+      description: |      # required
+        Phentsho works at National Biodiversity Centre
+      # img required
+      background: /assets/images/placeholders/moss.jpg
+      href: /about
+      categories: [NBC, Bhutan]
+      cta:
+      - text: LinkedIn
+        href: /data
+        isPrimary: true
+    - preTitle: Profile  # optional
+      title: Sabitri Pradhan
+      href: /about
+      description: |      # required
+        Sabitri works at the National Mushroom Centre in Bhutan.
+      background: /assets/images/placeholders/moss.jpg
+      href: /about
+      categories: [NMC, Bhutan]
+      cta:
+      - text: LinkedIn
+        href: /data
+        isPrimary: true
 ---
