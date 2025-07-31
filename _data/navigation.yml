@@ -6,13 +6,11 @@
     href: /gbif
   - text: ICIMOD
     href: /icimod
-  - text: Team
-    href: /team
+- text: Team
+  href: /team
 - text: Data Portal
   href: /occurrence/search
 - text: Publishers
   href: https://www.gbif.org/participant/320
-- text: Resources
-  href: /resources
 - text: News and Updates
   href: /news_updates
