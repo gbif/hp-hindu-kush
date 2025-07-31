@@ -8,7 +8,7 @@ imageLicense: "Ramesh Kathariya, ICIMOD"
 height: 70vh
 
 composition:
-  - type: feature
+  - type: media
     inlineData:
       title: Meet our Biodiversity Data Champions
       description: Our champions are working tirelessly to fill biodiversity data gaps in their countries.
