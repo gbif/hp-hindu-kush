@@ -2,15 +2,14 @@
 layout: page
 permalink: /news_updates
 title: "News and Updates"
-description: Explore what going with HKHBIF
-background: /assets/images/placeholders/caterpillar.jpg
+description: Explore what's going on with HKHBIF
+background: assets/images/placeholders/Event_GroupPhoto.jpg
 imageLicense: Ramesh Kathariya, ICIMOD
+height: 75vh
 
 composition:
   - type: heroImage
   - type: pageMarkdown
-  - type: features
-  - type: split
   - type: stories
 features:
   - preTitle: Event     
@@ -25,7 +24,7 @@ features:
     title: Biodiversity Data Mobilisation and Training
     description: |
       Join us for a webinar on Biodiversity Data Mobilisation and Training, jointly organised by  ICIMOD and GBIF: The Global Biodiversity Information Facility, in collaboration with the National Biodiversity Centre, Bhutan and National Mushroom Centre - NMC.
-    background: https://www.facebook.com/photo?fbid=1159106252923728&set=a.590313523136340
+    background:/assets/images/logos/ICIMOD Symbol-Blue.png
     href: https://www.facebook.com/share/p/1CfAXca64o/
     categories: [ICIMOD, GBIF, Royal Government of Bhutan, NBC]
 
@@ -36,4 +35,5 @@ features:
     background: /assets/images/logos/ICIMOD Symbol-Blue.png
     href: https://lib.icimod.org/records/knyz0-jxk77
     categories: [ICIMOD, GBIF]
+
 ---
