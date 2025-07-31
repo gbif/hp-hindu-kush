@@ -9,6 +9,9 @@ height: 75vh
 
 composition:
   - type: heroImage
+  - type: features
+    hideTitle: true
+    
 features:
   - preTitle: Event     
     title: Regional Biodiversity Data Mobilisation
