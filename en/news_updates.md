@@ -4,13 +4,13 @@ permalink: /news_updates
 title: "News and Updates"
 description: Explore what's going on with HKHBIF
 background: assets/images/placeholders/Event_GroupPhoto.jpg
-imageLicense: Ramesh Kathariya, ICIMOD
+imageLicense: Jitendra Bajracharya, ICIMOD
 height: 75vh
 
 composition:
   - type: heroImage
   - type: pageMarkdown
-  - type: stories
+  - type: features
 features:
   - preTitle: Event     
     title: Regional Biodiversity Data Mobilisation Training
