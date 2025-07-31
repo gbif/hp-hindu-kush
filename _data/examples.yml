@@ -12,7 +12,7 @@ stats:
       description: Occurrence
       background: /assets/images/placeholders/collections_small.jpg
       href: /collection/search
-    - title: "58, 145"
+    - title: "58,145"
       description: Species
       background: /assets/images/placeholders/specimen.png
 
