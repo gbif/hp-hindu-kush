@@ -9,7 +9,7 @@ height: 75vh
 
 composition:
   - type: heroImage
-  - type: pageMarkdown
+#  - type: pageMarkdown
   - type: features
 features:
   - preTitle: Event     
