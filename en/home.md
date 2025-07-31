@@ -5,14 +5,16 @@ preTitle: Data portal
 title: Hindu Kush Himalayan Biodiversity Information Facility
 description: Encouraging sharing and use of biodiversity information!
 background:  "assets/images/placeholders/example.jpg"
-imageLicense: UNSPECIFIED
-height: 90vh
+imageLicense: Aung Thu Moe, Myanmar
+height: 81vh
 cta:
   - text: Records
     href: /occurrence/search
     isPrimary: true
-  - text: About
-    href: /about
+  - text: GBIF
+    href: /gbif
+  - text: ICIMOD
+    href: /icimod
 composition:
   - type: heroImage # the block type
   - type: stats
