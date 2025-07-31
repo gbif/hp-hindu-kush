@@ -25,54 +25,42 @@ couldBeAnyName:
     - title: Raise Awareness # required
       description: |      # required
         Promote understanding of biodiversity's significance in the HKH region to encourage conservation efforts.
-      href: /hkhbif
+#      href: /hkhbif
       # img required
       background: /assets/images/placeholders/Raise_Awareness.jpg
-      imageLicense: Ramesh Kathariya/ICIMOD
+      imageLicense: Ramesh Kathariya, ICIMOD
       # categories: [drawings] # optional
     - title: Global Communication # required
       description: |      # required
         Advocate for the worldwide sharing of biodiversity data to inform the public and decision-makers about its importance.
-      href: /hkhbif
+#      href: /hkhbif
       background: /assets/images/placeholders/Global_Communication.jpg
-      imageLicense: Ramesh Kathariya/ICIMOD
+      imageLicense: Ramesh Kathariya, ICIMOD
     - title: Organisational Strengthening # required
       description: |      # required
         Enhance HKHBIF's presence and expand its network of data holders and publishers to improve collaboration and data accessibility.
-      href: /hkhbif
+#      href: /hkhbif
       background: /assets/images/placeholders/Organisational_Strengthening.jpg
-      imageLicense: Ramesh Kathariya/ICIMOD
+      imageLicense: Ramesh Kathariya, ICIMOD
     - title: Partnership Development # required
       description: |      # required
         Seek collaborations with other Asian regional nodes to strengthen regional cooperation and resource sharing in biodiversity initiatives.
-      href: /hkhbif
+#      href: /hkhbif
       background: /assets/images/placeholders/Partnership_Development.jpg
-      imageLicense: Ramesh Kathariya/ICIMOD
+      imageLicense: Ramesh Kathariya, ICIMOD
     - title: Showcase Biodiversity # required
       description: |      # required
         Highlight and promote the unique biodiversity of HKH member countries to raise awareness and support for conservation efforts.
-      href: /hkhbif
+#      href: /hkhbif
       background: /assets/images/placeholders/Showcase_Biodiversity.jpg
-      imageLicense: Ramesh Kathariya
+      imageLicense: Ramesh Kathariya, ICIMOD
     - title: Open Data # required
       description: |      # required
         Encourage the publication of biodiversity data in open-access formats to facilitate global sharing and accessibility.
-      href: /hkhbif
+#      href: /hkhbif
       background: /assets/images/placeholders/Open_Data.jpg
-      imageLicense: Ramesh Kathariya  
+      imageLicense: Ramesh Kathariya, ICIMOD  
 
-
-composition:
-  - type: media
-    inlineData:
-      title: Meet our Biodiversity Data Champions
-      description: Our champions are working tirelessly to fill biodiversity data gaps in their countries.
-      features:
-        - title: Sabitra Pradhan
-          description: |
-            Sabitra Pradhan has been working in the Mycodiversity Program at the National Mushroom Centre, Bhutan, since 2008. With a Bachelor's degree in Agriculture, she has dedicated her career to studying and conserving Bhutan's rich fungal biodiversity. Her work includes extensive field surveys and documentation of wild mushrooms across the country. She has co-authored two important books: Fungi of Bhutan (2010), which catalogues over 350 mushroom species, and Poisonous Mushrooms of Bhutan: A Field Guide (2021), aimed at raising public awareness about toxic fungi. Her contributions have been vital in promoting safe mushroom foraging and advancing mycological research in Bhutan.
-          image: /assets/images/SabitraPradhan.png
-          href: /assets/images/SabitraPradhan.png
       
 
 herbariumImageExample:
