@@ -17,13 +17,13 @@ composition:
 features:
   - title: Sabitra Pradhan
     description: |
-      Sabitra Pradhan has been working in the Mycodiversity Program at the National Mushroom Centre in Bhutan since 2008. With a Bachelor's degree in Agriculture, she has dedicated her career to studying and conserving Bhutan's rich fungal biodiversity. Her work includes extensive field surveys and documentation of wild mushrooms across the country. She has co-authored two important books: Fungi of Bhutan (2010), which catalogues over 350 mushroom species, and Poisonous Mushrooms of Bhutan: A Field Guide (2021), aimed at raising public awareness about toxic fungi. Her contributions have been vital in promoting safe mushroom foraging and advancing mycological research in Bhutan.
+      Sabitra Pradhan, a researcher at Bhutan’s National Mushroom Centre since 2008, holds a Bachelor's in Agriculture and specialises in fungal biodiversity. She has conducted extensive field surveys and co-authored Fungi of Bhutan (2010) and Poisonous Mushrooms of Bhutan (2021). Her work promotes safe mushroom foraging and advances mycological research, making significant contributions to documenting and conserving Bhutan’s rich fungal diversity.
     background: /assets/images/SabitraPradhan.png
     href: /assets/images/SabitraPradhan.png
 
   - title: Phuentsho
     description: |
-      Phuentsho has been working in the Mycodiversity Program at the National Mushroom Centre in Bhutan since 2008. With a Bachelor's degree in Agriculture, she has dedicated her career to studying and conserving Bhutan's rich fungal biodiversity. Her work includes extensive field surveys and documentation of wild mushrooms across the country. She has co-authored two important books: Fungi of Bhutan (2010), which catalogues over 350 mushroom species, and Poisonous Mushrooms of Bhutan: A Field Guide (2021), aimed at raising public awareness about toxic fungi. Her contributions have been vital in promoting safe mushroom foraging and advancing mycological research in Bhutan.
+      Phuentsho, a researcher at Bhutan’s National Mushroom Centre since 2008, holds a Bachelor's in Agriculture and specialises in fungal biodiversity. She has conducted extensive field surveys and co-authored Fungi of Bhutan (2010) and Poisonous Mushrooms of Bhutan (2021). Her work promotes safe mushroom foraging and advances mycological research, making significant contributions to documenting and conserving Bhutan’s rich fungal diversity.
     background: /assets/images/Phuentsho.png
     href: /assets/images/Phuentsho.png
 ---
