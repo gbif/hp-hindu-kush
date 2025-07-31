@@ -11,7 +11,8 @@ composition:
   - type: heroImage
     hideTitle: true
   - type: features
-  - type: split
+#  - type: split
+  - type:pageMarkdown
 features:
   - preTitle: Event     
     title: Regional Biodiversity Data Mobilisation Training
