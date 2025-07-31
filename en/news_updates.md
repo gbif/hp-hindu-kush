@@ -3,7 +3,7 @@ layout: page
 permalink: /news_updates
 title: "News and Updates"
 description: Explore what's going on with HKHBIF
-background: assets/images/placeholders/Event_GroupPhoto.jpg
+background: /assets/images/placeholders/Event_GroupPhoto.jpg
 imageLicense: Jitendra Bajracharya, ICIMOD
 height: 75vh
 
@@ -39,3 +39,14 @@ split:
     categories: [ICIMOD, GBIF]
 
 ---
+
+
+## Featured Resource
+
+<div class="split-section">
+  <img src="/assets/images/placeholders/BiodiversirtydataHKHBIF.jpg" alt="Biodiversity Data">
+  <div class="split-content">
+    <h3>Biodiversity data in the Hindu Kush Himalaya from the GBIF database</h3>
+    <p>Global biodiversity is in crisis. We are losing one species every 10 minutes. But unlike earlier mass extinctions, this one is driven by human activity. This aspect of the triple planetary crisis – biodiversity loss – is accelerated by the other two: pollution and climate change.</p>
+    <a href="https://lib.icimod.org/records/knyz0-jxk77"</div>
+
