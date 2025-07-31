@@ -9,6 +9,7 @@ height: 75vh
 
 composition:
   - type: heroImage
+    hideTitle: true
   - type: features
 features:
   - preTitle: Event     
@@ -17,7 +18,7 @@ features:
       Enhancing institutional capacity for biodiversity data management in the Hindu Kush Himalaya using the Global Biodiversity Information Facility’s Open Access Platform
     background: /assets/images/logos/ICIMOD Symbol-Blue.png
     href: https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/
-    categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, Zoological Survey of India, National Science Library, CAS - China, Forest Action Nepal]
+    categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, Zoological Survey of India, National Science Library CAS - China, Forest Action Nepal]
     
   - preTitle: Event     
     title: Biodiversity Data Mobilisation and Training
