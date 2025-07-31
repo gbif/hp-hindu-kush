@@ -7,6 +7,10 @@ background: /assets/images/placeholders/pageholder_about.jpg
 imageLicense: |
   Ramesh Kathariya | ICIMOD
 height: 70vh
+
+composition:
+  - type: heroImage
+  - type: pageMarkdown
 ---
 
 

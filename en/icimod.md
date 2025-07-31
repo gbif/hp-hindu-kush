@@ -3,16 +3,13 @@ permalink: /icimod
 lang-ref: icimod
 title: ICIMOD
 description: For mountains and people
-background: /assets/images/placeholders/pageholder_about.jpg
-imageLicense: "Ramesh Kathariya | ICIMOD"
+background: /assets/images/placeholders/oriental_magpie_robin.JPG
+imageLicense: "Ramesh Kathariya, ICIMOD"
 height: 70vh
 
 composition:
   - type: heroImage
   - type: pageMarkdown
-  - type: features
-  - type: split
-    data: examples.someOtherNameForSomeData
   - type: media
     inlineData:
       title: Key Focus Area
