@@ -26,7 +26,7 @@ features:
       Join us for a webinar on Biodiversity Data Mobilisation and Training, jointly organised by  ICIMOD and GBIF: The Global Biodiversity Information Facility, in collaboration with the National Biodiversity Centre, Bhutan and National Mushroom Centre - NMC.
     background: /assets/images/logos/ICIMOD Symbol-Blue.png
     href: https://www.facebook.com/share/p/1CfAXca64o/
-    categories: [ICIMOD, GBIF, Royal Government of Bhutan, NBC]
+    categories: [ICIMOD, GBIF, Royal Government of Bhutan, National Biodiversity Centre, National Mushroom Centre]
 
   - preTitle: Resource     
     title: Biodiversity data in the Hindu Kush Himalaya from the GBIF database
