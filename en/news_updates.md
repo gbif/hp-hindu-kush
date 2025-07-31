@@ -8,7 +8,7 @@ imageLicense: Jitendra Bajracharya, ICIMOD
 height: 75vh
 
 composition:
-  - type: features
+  - type: heroImage
 features:
   - preTitle: Event     
     title: Regional Biodiversity Data Mobilisation
