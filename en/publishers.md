@@ -24,8 +24,8 @@ features:
 
   - title: Phuentsho
     description: |
-      Phuentsho, a researcher at Bhutan’s National Mushroom Centre since 2008, holds a Bachelor's in Agriculture and specialises in fungal biodiversity. She has conducted extensive field surveys and co-authored Fungi of Bhutan (2010) and Poisonous Mushrooms of Bhutan (2021). Her work promotes safe mushroom foraging and advances mycological research, making significant contributions to documenting and conserving Bhutan’s rich fungal diversity.
+      Phuentsho is serving as a Biodiversity Officer at the National Herbarium, National Biodiversity Centre, Bhutan. He formerly served as a Forest Ranger at Jigme Singye Wangchuck National Park and is deeply passionate about citizen science and digital innovation in biodiversity documentation. He developed Bhutan eBirds, a mobile bird guide, and strongly advocates for open access to biodiversity data, believing it to be essential for effective conservation..
     background: /assets/images/Phuentsho.png
     href: /assets/images/Phuentsho.png
 ---
-## [See more](https://www.gbif.org/participant/320)
+<p align-"center">## [See more](https://www.gbif.org/participant/320)</p>
