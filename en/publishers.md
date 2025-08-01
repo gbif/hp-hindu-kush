@@ -11,6 +11,7 @@ height: 70vh
 composition:
   - type: heroImage
   - type: features
+  - type: pageMarkdown
     props:
       title: Meet our Biodiversity Data Champions
       description: Our champions are working tirelessly to fill biodiversity data gaps in their countries.
