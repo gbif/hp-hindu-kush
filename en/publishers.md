@@ -4,7 +4,7 @@ permalink: /publishers
 lang-ref: publishers
 title: Publishers
 description: Meet our Publishers
-background: /assets/images/placeholders/pageholder_about.jpg
+background: /assets/images/placeholders/caterpillar.jpg
 imageLicense: "Ramesh Kathariya, ICIMOD"
 height: 70vh
 
