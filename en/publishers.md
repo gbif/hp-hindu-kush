@@ -28,4 +28,4 @@ features:
     background: /assets/images/Phuentsho.png
     href: /assets/images/Phuentsho.png
 ---
-<p align-"center">## [See more](https://www.gbif.org/participant/320)</p>
+## [See more](https://www.gbif.org/participant/320)
