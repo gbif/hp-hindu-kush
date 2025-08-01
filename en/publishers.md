@@ -29,5 +29,5 @@ features:
     href: /assets/images/Phuentsho.png
 ---
 <div align="center">
-  ## [See more](https://www.gbif.org/participant/320)
+  [See more](https://www.gbif.org/participant/320)
 </div>
