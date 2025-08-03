@@ -7,6 +7,7 @@ background: /assets/images/placeholders/Event_GroupPhoto.jpg
 imageLicense: Jitendra Bajracharya, ICIMOD
 height: 75vh
 
+---
 composition:
   - type: heroImage
   - type: features
@@ -37,4 +38,4 @@ features:
     href: https://lib.icimod.org/records/knyz0-jxk77
     categories: [ICIMOD, GBIF]
 
----
+...
