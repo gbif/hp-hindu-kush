@@ -15,12 +15,13 @@ stats:
     - title: "58,145"
       description: Species
       background: /assets/images/placeholders/specimen.png
+      href: /collection/search
 
 
 couldBeAnyName:
   title: HKHBIF strategies
   description: |
-     The [HKHBIF](/about) is committed to enhancing the understanding and utilisation of biodiversity information in the HKH region. Our strategies focus on several key areas:
+     The HKHBIF is committed to enhancing the understanding and utilisation of biodiversity information in the HKH region. Our strategies focus on several key areas:
   features:
     - title: Raise Awareness # required
       description: |      # required
