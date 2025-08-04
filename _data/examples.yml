@@ -76,6 +76,6 @@ herbariumImageExample:
     *Polyptychodon* Owen, 1841 collected in United Kingdom of Great Britain and Northern Ireland. [See full record](/specimen/search?entity=1057252794&view=TABLE) (licensed under http://creativecommons.org/licenses/by/4.0/)
   href: /about
   cta:
-  - text: Download report
-    href: http://example.com
+  - text: Explore datasets
+    href: /collection/search
     isPrimary: true
