@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-preTitle: Data portal
+preTitle: Regional Data Portal
 title: Hindu Kush Himalayan Biodiversity Information Facility
 description: Encouraging sharing and use of biodiversity information!
 background:  "assets/images/placeholders/example.jpg"
