@@ -19,7 +19,7 @@ composition:
       features:
         - title: "Phuentsho"
           description: >
-            Phuentsho is serving as a Biodiversity Officer at the National Herbarium, National Biodiversity Centre, Bhutan. He formerly served as a Forest Ranger at Jigme Singye Wangchuck National Park and is deeply passionate about citizen science and digital innovation in biodiversity documentation. He developed Bhutan eBirds, a mobile bird guide, and strongly advocates for open access to biodiversity data, believing it to be essential for effective conservation.
+            Phuentsho is serving as a Biodiversity Officer at the National Herbarium, National Biodiversity Centre, Bhutan. He formerly served as a Forest Ranger at Jigme Singye Wangchuck National Park and is deeply passionate about citizen science and digital innovation in biodiversity documentation. He developed Bhutan eBird, a mobile bird guide, and strongly advocates for open access to biodiversity data, believing it to be essential for effective conservation.
           background: /assets/images/digitalBadge/Phuentsho.png
           imageLicense: ICIMOD
           href: /assets/images/digitalBadge/Phuentsho.png
