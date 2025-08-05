@@ -13,7 +13,15 @@ composition:
     hideTitle: false
     
 features:
-  - preTitle: Event - Webinar     
+  - preTitle: Event - Webinar [05 Aug 2025]
+    title: Webinar on Biodiversity Data Mobilisation and Training - Bhutan
+    description: |
+      Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the  *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility. See <a href="https://www.facebook.com/share/p/1CfAXca64o/">more</a>
+    background: /assets/images/news_updates/Call4webinar-Bhutan-05.08.2025.jpg
+    href: https://www.facebook.com/share/p/1CfAXca64o/
+    categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, National Mushroom Centre - Bhutan]
+
+  - preTitle: Event - Webinar [19 - 21 May 2025]
     title: Regional Training on Biodiversity Data Mobilisation
     description: |
       Enhancing institutional capacity for biodiversity data management in the Hindu Kush Himalaya using the *Global Biodiversity Information Facility’s* Open Access Platform. See <a href="https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/">more</a>
@@ -21,13 +29,6 @@ features:
     href: https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/
     categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, Zoological Survey of India, National Science Library CAS - China, Forest Action Nepal]
     
-  - preTitle: Event - Webinar   
-    title: Webinar on Biodiversity Data Mobilisation and Training - Bhutan
-    description: |
-      Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the  *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility. See <a href="https://www.facebook.com/share/p/1CfAXca64o/">more</a>
-    background: /assets/images/news_updates/Call4webinar-Bhutan-05.08.2025.jpg
-    href: https://www.facebook.com/share/p/1CfAXca64o/
-    categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, National Mushroom Centre - Bhutan]
     
   - preTitle: Resource - Poster  
     title: Biodiversity data in the Hindu Kush Himalaya from the GBIF database
