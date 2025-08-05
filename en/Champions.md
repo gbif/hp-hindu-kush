@@ -8,20 +8,21 @@ background: /assets/images/placeholders/caterpillar.jpg
 imageLicense: "Ramesh Kathariya, ICIMOD"
 height: 70vh
 
+
 composition:
   - type: heroImage
-  - type: media
   - type: pageMarkdown
+  - type: media
     inlineData:
-      title: null
-      description: null
+      title: Our Team
+      description: Meet the experts driving biodiversity conservation and sustainable development in the HKH region.
       features:
-        - title: "Sabitra Pradhan"
+        - title: "Phuentsho"
           description: >
-            Sabitra Pradhan, a researcher at Bhutan’s National Mushroom Centre since 2008, holds a Bachelor's in Agriculture and specialises in fungal biodiversity. She has conducted extensive field surveys and co-authored Fungi of Bhutan (2010) and Poisonous Mushrooms of Bhutan (2021). Her work promotes safe mushroom foraging and advances mycological research, making significant contributions to documenting and conserving Bhutan’s rich fungal diversity.
-          background: /assets/images/digitalBadge/SabitraPradhan.png
+            Phuentsho is serving as a Biodiversity Officer at the National Herbarium, National Biodiversity Centre, Bhutan. He formerly served as a Forest Ranger at Jigme Singye Wangchuck National Park and is deeply passionate about citizen science and digital innovation in biodiversity documentation. He developed Bhutan eBirds, a mobile bird guide, and strongly advocates for open access to biodiversity data, believing it to be essential for effective conservation.
+          background: /assets/images/digitalBadge/Phuentsho.png
           imageLicense: ICIMOD
-          href: /assets/images/digitalBadge/SabitraPradhan.png
+          href: /assets/images/digitalBadge/Phuentsho.png
         - title: "Sabitra Pradhan"
           description: >
             Sabitra Pradhan, a researcher at Bhutan’s National Mushroom Centre since 2008, holds a Bachelor's in Agriculture and specialises in fungal biodiversity. She has conducted extensive field surveys and co-authored Fungi of Bhutan (2010) and Poisonous Mushrooms of Bhutan (2021). Her work promotes safe mushroom foraging and advances mycological research, making significant contributions to documenting and conserving Bhutan’s rich fungal diversity.
