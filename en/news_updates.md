@@ -14,7 +14,7 @@ composition:
     
 features:
   - preTitle: Event - Webinar [05 Aug 2025]
-    title: Webinar on Biodiversity Data Mobilisation and Training - Bhutan
+    title: Webinar on Biodiversity Data Mobilisation and Publishing - Bhutan
     description: |
       Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the  *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility. See <a href="https://www.facebook.com/share/p/1CfAXca64o/">more</a>
     background: /assets/images/news_updates/Call4webinar-Bhutan-05.08.2025.jpg
