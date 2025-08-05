@@ -44,9 +44,9 @@ features:
     background: /assets/images/news_updates/Lichen.05.08.2025.jpg
     href: https://blog.icimod.org/resilient-economies-landscapes/biodiversity-data-hindu-kush-himalaya/
     categories: [ICIMOD]
-
+      
   - preTitle: Resource - Handbook
-    title: Flora of Kailash Sacred Landscape Nepal: An Annotated Checklist. Volume 1
+    title: Flora of Kailash Sacred Landscape Nepal - An Annotated Checklist. Volume 1
     description: |
       Kailash Sacred Landscape (KSL) is a transboundary landscape with rich ecological and biological diversity. This publication is the first volume of the three-volume book, documenting the gymnosperm and angiosperm flora of KSL in north-west Nepal. Learn <a href="https://lib.icimod.org/records/wh2xh-nsp87">more<a/>
     background: /assets/images/news_updates/floraofKSL.png
