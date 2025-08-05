@@ -48,7 +48,7 @@ features:
   - preTitle: Resource - Handbook
     title: Flora of Kailash Sacred Landscape Nepal: An Annotated Checklist. Volume 1
     description: |
-      Kailash Sacred Landscape (KSL) is a transboundary landscape with rich ecological and biological diversity. This publication is the first volume of the three-volume book, documenting the gymnosperm and angiosperm flora of KSL in north-west Nepal. Learn <a href="https://lib.icimod.org/records/wh2xh-nsp87"><a/>
+      Kailash Sacred Landscape (KSL) is a transboundary landscape with rich ecological and biological diversity. This publication is the first volume of the three-volume book, documenting the gymnosperm and angiosperm flora of KSL in north-west Nepal. Learn <a href="https://lib.icimod.org/records/wh2xh-nsp87">more<a/>
     background: /assets/images/news_updates/floraofKSL.png
     href: https://lib.icimod.org/records/wh2xh-nsp87
     categories: [Tribhuvan University]
