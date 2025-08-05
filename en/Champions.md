@@ -14,8 +14,8 @@ composition:
   - type: pageMarkdown
   - type: media
     inlineData:
-      title: Our Team
-      description: Meet the experts driving biodiversity conservation and sustainable development in the HKH region.
+      title: null
+      description: null
       features:
         - title: "Phuentsho"
           description: >
@@ -30,7 +30,6 @@ composition:
           imageLicense: ICIMOD
           href: /assets/images/digitalBadge/SabitraPradhan.png
 
----
-##       [Our Publishers](https://www.gbif.org/participant/320)
 
+---
 
