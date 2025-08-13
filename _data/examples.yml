@@ -70,7 +70,7 @@ herbariumImageExample:
     The Hindu Kush Himalayan Biodiversity Information Facility (HKHBIF) is dedicated to the collection, publication, and dissemination of biodiversity data from the Hindu Kush Himalayan region.
     ICIMOD is an associate member of the Global Biodiversity Information Facility (GBIF), and HKHBIF is the GBIF-mediated publishing platform that is hosted by ICIMOD. It is a regional node of GBIF that caters to ICIMOD’s eight regional member countries – Afghanistan, Bangladesh, Bhutan, China, India, Myanmar, Nepal, and Pakistan. The aim is to sensitize biodiversity data holders on the importance of biodiversity data publishing globally, build a network of data holders and publishers from the region, and motivate them to contribute to building biodiversity data for the HKH.
   # img required
-  background: /assets/images/front/bulbulAboutHKHBIF.jpg
+  background: /assets/images/placeholders/bluethroatedBarbet.jpg
   imageLicense: |
     Ramesh Kathariya, ICIMOD
   cta:
@@ -78,18 +78,15 @@ herbariumImageExample:
     href: /collection/search
     isPrimary: true
 
-slide:
+becomePublisher:
+  reverse: true
   title: Be a publisher!
   description: |
-    Let your data be known globally! Let your data reach a wider audience for research use!
-  customSlider:
-    - background: /assets/images/placeholders/dragonfly.jpg
-      title: Publish your checklist with us
-      #href: 
-    - background: /assets/images/placeholders/oriental_magpie_robin.JPG
-      title: Publish your sample data
-      #href:
-    - background: /assets/images/placeholders/pageholder_about.jpg
-      title: Publish your observation data
-      #href: 
-      
+    Join the growing network of biodiversity data contributors in the Hindu Kush Himalaya! By becoming a publisher with HKHBIF, you help make valuable species and ecosystem data accessible to researchers, policymakers, and conservationists worldwide. Whether you're an academic institution, government agency, or community organization, your data can drive impactful decisions and support global biodiversity goals.
+  background: /assets/images/front/bulbulAboutHKHBIF.jpg
+  imageLicense: |
+    Ramesh Kathariya, ICIMOD
+  cta:
+  - text:  Start Publishing
+    #href: /collection/search
+    isPrimary: true
