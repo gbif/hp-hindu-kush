@@ -11,6 +11,6 @@ height: 75vh
 composition:
   - type: heroImage
   - type: features
-    data: examples.couldBeAnyName
+    data: examples.news
 
 ---
