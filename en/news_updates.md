@@ -12,5 +12,7 @@ composition:
   - type: heroImage
   - type: features
     data: news_updates.news
+  - type: features
+    data: news_updates.resources
 
 ---
