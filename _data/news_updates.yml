@@ -1,43 +1,67 @@
-features:
-  - preTitle: Event - Webinar [05 Aug 2025]
-    title: Webinar on Biodiversity Data Mobilisation and Publishing - Bhutan
-    description: >
-      Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility. See https://www.facebook.com/share/p/1CfAXca64o/
-    background: /assets/images/news_updates/Call4webinar-Bhutan-05.08.2025.jpg
-    href: https://www.facebook.com/share/p/1CfAXca64o/
-    categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, National Mushroom Centre - Bhutan]
+news:
+  title: News
+  description: |
+     
+  features:
+    - title: Webinar on Biodiversity Data Mobilisation and Publishing - Bhutan # required
+      description: |      # required
+        Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility. See <a href="https://www.facebook.com/share/p/1CfAXca64o/">more</a>
+      href: https://www.facebook.com/share/p/1CfAXca64o/
+      # img required
+      background: /assets/images/news_updates/Call4webinar-Bhutan-05.08.2025.jpg
+      imageLicense: Ramesh Kathariya, ICIMOD
+      categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, National Mushroom Centre - Bhutan] # optional
+         
+    - title: Regional Training on Biodiversity Data Mobilisation [19 - 21 May 2025] # required
+      description: |      # required
+         Enhancing institutional capacity for biodiversity data management in the Hindu Kush Himalaya using the *Global Biodiversity Information Facility’s* Open Access Platform. See <a href="https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/">more</a>
+      href: https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/
+      # img required
+      background: /assets/images/news_updates/RgTraining.JPG
+      imageLicense: Ramesh Kathariya, ICIMOD
+      categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, Zoological Survey of India, National Science Library CAS - China, Forest Action Nepal] # optional
 
-  - preTitle: Event - Webinar [19 - 21 May 2025]
-    title: Regional Training on Biodiversity Data Mobilisation
-    description: >
-      Enhancing institutional capacity for biodiversity data management in the Hindu Kush Himalaya using the *Global Biodiversity Information Facility’s* Open Access Platform. See https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/
-    background: /assets/images/news_updates/RgTraining.JPG
-    href: https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/
-    categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, Zoological Survey of India, National Science Library CAS - China, Forest Action Nepal]
+resources:
+  title: Resources
+  description: |
+     
+  features:
+    - title: Biodiversity data in the Hindu Kush Himalaya from the GBIF database # required
+      description: |      # required
+        Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility. See <a href="https://www.facebook.com/share/p/1CfAXca64o/">more</a>
+      href: https://lib.icimod.org/records/knyz0-jxk77
+      # img required
+      background: /assets/images/news_updates/BiodiversirtydataPoster.jpg
+      imageLicense: Ramesh Kathariya, ICIMOD
+      categories: [ICIMOD, GBIF] # optional
 
-  - preTitle: Resource - Poster
-    title: Biodiversity data in the Hindu Kush Himalaya from the GBIF database
-    description: >
-      Global biodiversity is in crisis. We are losing one species every 10 minutes. This aspect of the triple planetary crisis – biodiversity loss – is accelerated by the other two: pollution and climate change. View https://lib.icimod.org/records/knyz0-jxk77
-    background: /assets/images/news_updates/BiodiversirtydataPoster.jpg
-    href: https://lib.icimod.org/records/knyz0-jxk77
-    categories: [ICIMOD, GBIF]
+    - title: Unlocking Biodiversity Data for Sustainable Development in the Hindu Kush Himalaya # required
+      description: |      # required
+        Open-access biodiversity data platforms, such as *GBIF* and *HKHBIF*, are transforming conservation in the Hindu Kush Himalaya, supporting global biodiversity goals – including the *KMGBF* and the *SDGs*. See <a href = "https://blog.icimod.org/resilient-economies-landscapes/biodiversity-data-hindu-kush-himalaya/">more<a/>
+      href: https://blog.icimod.org/resilient-economies-landscapes/biodiversity-data-hindu-kush-himalaya/
+      # img required
+      background: /assets/images/news_updates/Lichen.05.08.2025.jpg
+      imageLicense: Ramesh Kathariya, ICIMOD
+      categories: ICIMOD, Sasha Sunuwar, Bandana Shakya, Ramesh Kathariya] # optional
 
-  - preTitle: Resource - Blog
-    title: Unlocking Biodiversity Data for Sustainable Development in the Hindu Kush Himalaya
-    description: >
-      Open-access biodiversity data platforms, such as *GBIF* and *HKHBIF*, are transforming conservation in the Hindu Kush Himalaya, supporting global biodiversity goals – including the *KMGBF* and the *SDGs*. See https://blog.icimod.org/resilient-economies-landscapes/biodiversity-data-hindu-kush-himalaya/
-    background: /assets/images/news_updates/Lichen.05.08.2025.jpg
-    href: https://blog.icimod.org/resilient-economies-landscapes/biodiversity-data-hindu-kush-himalaya/
-    categories: [ICIMOD, Sasha Sunuwar, Bandana Shakya, Ramesh Kathariya]
+    - title: Flora of Kailash Sacred Landscape Nepal - An Annotated Checklist. Volume 1 # required
+      description: |      # required
+        Kailash Sacred Landscape (KSL) is a transboundary landscape with rich ecological and biological diversity. This publication is the first volume of the three-volume book, documenting the gymnosperm and angiosperm flora of KSL in north-west Nepal. Learn <a href="https://lib.icimod.org/records/wh2xh-nsp87">more<a/>
+      href: https://lib.icimod.org/records/wh2xh-nsp87
+      # img required
+      background: /assets/images/news_updates/floraofKSL.png
+      imageLicense: Ramesh Kathariya, ICIMOD
+      categories: [Tribhuvan University] # optional
 
-  - preTitle: Resource - Handbook
-    title: Flora of Kailash Sacred Landscape Nepal - An Annotated Checklist. Volume 1
-    description: >
-      Kailash Sacred Landscape (KSL) is a transboundary landscape with rich ecological and biological diversity. This publication is the first volume of the three-volume book, documenting the gymnosperm and angiosperm flora of KSL in north-west Nepal. Learn https://lib.icimod.org/records/wh2xh-nsp87
-    background: /assets/images/news_updates/floraofKSL.png
-    href: https://lib.icimod.org/records/wh2xh-nsp87
-    categories: [Tribhuvan University]
+    - title: Pictorial Handbook on Flowers of Sikkim’ Vol-I # required
+      description: |      # required
+        An effort was made to document the rich floral biodiversity in the form of the *“Pictorial Handbook on Flowers of Sikkim”*, which includes 376 species of common occurrence flowers as well as rare, endangered and endemic flowering plants. For details, please contact <a href="mailto:pg_yuksam@yahoo.com">Mr Pema Bhutia</a>
+      href: https://lib.icimod.org/records/wh2xh-nsp87
+      # img required
+      background: /assets/images/news_updates/floraofKSL.png
+      imageLicense: Ramesh Kathariya, ICIMOD
+      categories: [Tribhuvan University] # optional
+ 
 
   - preTitle: Resource - Handbook
     title: Pictorial Handbook on Flowers of Sikkim’ Vol-I
@@ -45,4 +69,4 @@ features:
       An effort was made to document the rich floral biodiversity in the form of the *“Pictorial Handbook on Flowers of Sikkim”*, which includes 376 species of common occurrence flowers as well as rare, endangered and endemic flowering plants. For details, please contact <a href="mailto:pg_yuksam@yahoo.com">Mr Pema Bhutia</a>
     background: /assets/images/news_updates/handbookofFlowersofSikkim.png
     href: https://www.nhbs.com/pictorial-handbook-on-flowers-of-sikkim-volume-1
-    categories: []
+    #categories: []
