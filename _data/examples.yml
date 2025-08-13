@@ -77,3 +77,19 @@ herbariumImageExample:
   - text: Explore datasets
     href: /collection/search
     isPrimary: true
+
+slide:
+  title: Be a publisher!
+  description: |
+    Let your data be known globally! Let your data reach a wider audience for research use!
+  customSlider:
+    - background: /assets/images/placeholders/dragonfly.jpg
+      title: Publish your checklist with us
+      #href: 
+    - background: /assets/images/placeholders/oriental_magpie_robin.JPG
+      title: Publish your sample data
+      #href:
+    - background: /assets/images/placeholders/pageholder_about.jpg
+      title: Publish your observation data
+      #href: 
+      
