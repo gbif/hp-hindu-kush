@@ -1,4 +1,5 @@
 ---
+lang-ref: news_updates
 layout: page
 permalink: /news_updates
 title: "News and Updates"
