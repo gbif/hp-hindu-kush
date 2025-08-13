@@ -67,8 +67,11 @@ herbariumImageExample:
   reverse: false
   title: "About HKHBIF"
   description: |      # required
-    The Hindu Kush Himalayan Biodiversity Information Facility (HKHBIF) is dedicated to the collection, publication, and dissemination of biodiversity data from the Hindu Kush Himalayan region.
-    ICIMOD is an associate member of the Global Biodiversity Information Facility (GBIF), and HKHBIF is the GBIF-mediated publishing platform that is hosted by ICIMOD. It is a regional node of GBIF that caters to ICIMOD’s eight regional member countries – Afghanistan, Bangladesh, Bhutan, China, India, Myanmar, Nepal, and Pakistan. The aim is to sensitize biodiversity data holders on the importance of biodiversity data publishing globally, build a network of data holders and publishers from the region, and motivate them to contribute to building biodiversity data for the HKH.
+    The Hindu Kush Himalayan Biodiversity Information Facility (HKHBIF) is a regional platform hosted by ICIMOD, dedicated to mobilising and sharing biodiversity data from across the Hindu Kush Himalayan region. As an associate node of the Global Biodiversity Information Facility (GBIF), HKHBIF enables institutions, researchers, and citizen scientists from Afghanistan, Bangladesh, Bhutan, China, India, Myanmar, Nepal, and Pakistan to publish biodiversity datasets that are globally accessible, standardised, and citable.
+    
+    HKHBIF plays a pivotal role in addressing biodiversity data gaps in one of the world’s most ecologically diverse yet underrepresented regions. It promotes open access to species occurrence records, checklists, and sampling data, supporting scientific research, conservation planning, and policy development. Through capacity-building initiatives, technical support, and publishing tools, HKHBIF empowers data holders to contribute to global biodiversity knowledge using GBIF infrastructure.
+    
+    By fostering collaboration and strengthening regional data networks, HKHBIF enhances the visibility of mountain biodiversity and supports evidence-based decision-making for sustainable development. It is more than a data repository, it is a strategic platform for amplifying the voices of the HKH region and contributing to international biodiversity targets..
   # img required
   background: /assets/images/placeholders/bluethroatedBarbet.jpg
   imageLicense: |
@@ -80,11 +83,11 @@ herbariumImageExample:
 
 becomePublisher:
   reverse: true
-  title: Be a publisher!
+  title: "Be a publisher!"
   description: |
     Help shape the future of biodiversity conservation in the Hindu Kush Himalaya by publishing your data through HKHBIF. Whether you're a researcher, institution, or citizen scientist, your species records, checklists, and observations can support science, policy, and sustainable development across the region.
     
-    Publishing with HKHBIF ensures your data is globally visible, properly cited, and integrated into platforms like GBIF. Your contributions help fill critical data gaps in one of the world’s most biodiverse yet underrepresented regions—supporting habitat modeling, climate resilience planning, and ecosystem service assessments.
+    Publishing with HKHBIF ensures your data is globally visible, properly cited, and integrated into platforms like GBIF. Your contributions help fill critical data gaps in one of the world’s most biodiverse yet underrepresented regions, supporting habitat modelling, climate resilience planning, and ecosystem service assessments.
     
     Join a growing network of contributors working to make biodiversity data open, accessible, and impactful. Your data matters—share it, cite it, and let it drive change.
   
