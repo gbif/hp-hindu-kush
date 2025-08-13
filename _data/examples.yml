@@ -82,7 +82,12 @@ becomePublisher:
   reverse: true
   title: Be a publisher!
   description: |
-    Join the growing network of biodiversity data contributors in the Hindu Kush Himalaya! By becoming a publisher with HKHBIF, you help make valuable species and ecosystem data accessible to researchers, policymakers, and conservationists worldwide. Whether you're an academic institution, government agency, or community organization, your data can drive impactful decisions and support global biodiversity goals.
+    Help shape the future of biodiversity conservation in the Hindu Kush Himalaya by publishing your data through HKHBIF. Whether you're a researcher, institution, or citizen scientist, your species records, checklists, and observations can support science, policy, and sustainable development across the region.
+    
+    Publishing with HKHBIF ensures your data is globally visible, properly cited, and integrated into platforms like GBIF. Your contributions help fill critical data gaps in one of the world’s most biodiverse yet underrepresented regions—supporting habitat modeling, climate resilience planning, and ecosystem service assessments.
+
+   Join a growing network of contributors working to make biodiversity data open, accessible, and impactful. Your data matters—share it, cite it, and let it drive change.
+  
   background: /assets/images/front/bulbulAboutHKHBIF.jpg
   imageLicense: |
     Ramesh Kathariya, ICIMOD
