@@ -25,6 +25,8 @@ composition:
     data: examples.couldBeAnyName
   - type: features
     data: news_updates.news
+  - type: customSlider
+    data: examples.slide
 permalink: /
 ---
 
