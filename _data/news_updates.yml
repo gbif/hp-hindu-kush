@@ -3,7 +3,7 @@ news:
   description: |
      Get our updates here!   
   features:
-    - title: Webinar on Biodiversity Data Mobilisation and Publishing - Bhutan # required
+    - title: Webinar on Biodiversity Data Mobilisation and Publishing - Bhutan *[05 Aug 2025]* # required
       description: |      # required
         Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility. See <a href="https://www.facebook.com/share/p/1CfAXca64o/">more</a>
       href: https://www.facebook.com/share/p/1CfAXca64o/
@@ -12,7 +12,7 @@ news:
       imageLicense: Ramesh Kathariya, ICIMOD
       categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, National Mushroom Centre - Bhutan] # optional
          
-    - title: Regional Training on Biodiversity Data Mobilisation [19 - 21 May 2025] # required
+    - title: Regional Training on Biodiversity Data Mobilisation *[19 - 21 May 2025]* # required
       description: |      # required
          Enhancing institutional capacity for biodiversity data management in the Hindu Kush Himalaya using the *Global Biodiversity Information Facility’s* Open Access Platform. See <a href="https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/">more</a>
       href: https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/
