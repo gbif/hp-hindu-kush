@@ -8,5 +8,13 @@ background: /assets/images/placeholders/Event_GroupPhoto.jpg
 imageLicense: Jitendra Bajracharya, ICIMOD
 height: 75vh
 
+composition:
+  - type: heroImage
+  - type: features
+    data: examples.news
+  - type: features
+    data: examples.resources
+
+
 
 ---
