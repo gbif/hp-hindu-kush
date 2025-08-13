@@ -9,7 +9,7 @@ news:
       href: https://www.facebook.com/share/p/1CfAXca64o/
       # img required
       background: /assets/images/news_updates/Call4webinar-Bhutan-05.08.2025.jpg
-      imageLicense: Ramesh Kathariya, ICIMOD
+      #imageLicense: Ramesh Kathariya, ICIMOD
       categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, National Mushroom Centre - Bhutan] # optional
          
     - title: Regional Training on Biodiversity Data Mobilisation *[19 - 21 May 2025]* # required
@@ -33,7 +33,7 @@ resources:
       href: https://lib.icimod.org/records/knyz0-jxk77
       # img required
       background: /assets/images/news_updates/BiodiversirtydataPoster.jpg
-      imageLicense: Ramesh Kathariya, ICIMOD
+      #imageLicense: Ramesh Kathariya, ICIMOD
       categories: [ICIMOD, GBIF] # optional
 
     - title: Unlocking Biodiversity Data for Sustainable Development in the Hindu Kush Himalaya # required
@@ -51,16 +51,16 @@ resources:
       href: https://lib.icimod.org/records/wh2xh-nsp87
       # img required
       background: /assets/images/news_updates/floraofKSL.png
-      imageLicense: Ramesh Kathariya, ICIMOD
+      #imageLicense: Ramesh Kathariya, ICIMOD
       categories: [Tribhuvan University] # optional
 
     - title: Pictorial Handbook on Flowers of Sikkim’ Vol-I # required
       description: |      # required
         An effort was made to document the rich floral biodiversity in the form of the *“Pictorial Handbook on Flowers of Sikkim”*, which includes 376 species of common occurrence flowers as well as rare, endangered and endemic flowering plants. For details, please contact <a href="mailto:pg_yuksam@yahoo.com">Mr Pema Bhutia</a>
-      href: https://lib.icimod.org/records/wh2xh-nsp87
+      href: https://www.nhbs.com/pictorial-handbook-on-flowers-of-sikkim-volume-1
       # img required
-      background: /assets/images/news_updates/floraofKSL.png
-      imageLicense: Ramesh Kathariya, ICIMOD
-      categories: [Tribhuvan University] # optional
+      background: /assets/images/news_updates/handbookofFlowersofSikkim.png
+      #imageLicense: Ramesh Kathariya, ICIMOD
+      #categories: [Tribhuvan University] # optional
 
 
