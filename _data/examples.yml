@@ -72,8 +72,7 @@ herbariumImageExample:
   # img required
   background: /assets/images/front/bulbulAboutHKHBIF.jpg
   imageLicense: |
-    *Polyptychodon* Owen, 1841 collected in United Kingdom of Great Britain and Northern Ireland. [See full record](/specimen/search?entity=1057252794&view=TABLE) (licensed under http://creativecommons.org/licenses/by/4.0/)
-  href: https://www.icimod.org/ecosystem-services/hkh-bif/
+    Ramesh Kathariya, ICIMOD
   cta:
   - text: Explore datasets
     href: /collection/search
