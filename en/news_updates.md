@@ -12,9 +12,5 @@ composition:
   - type: heroImage
   - type: features
     data: examples.news
-  - type: features
-    data: examples.resources
-
-
 
 ---
