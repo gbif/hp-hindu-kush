@@ -23,6 +23,8 @@ composition:
     data: examples.herbariumImageExample
   - type: features
     data: examples.couldBeAnyName
+  - type: features
+    data: news_updates.news
 permalink: /
 ---
 
