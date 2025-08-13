@@ -21,12 +21,13 @@ composition:
     data: examples.stats
   - type: split
     data: examples.herbariumImageExample
+  - type: split
+    data: examples.becomePublisher
   - type: features
     data: examples.couldBeAnyName
   - type: features
     data: news_updates.news
-  - type: split
-    data: examples.becomePublisher
+
 permalink: /
 ---
 
