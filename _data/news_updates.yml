@@ -3,7 +3,16 @@ news:
   description: |
      Get our updates here!   
   features:
-    - title: Webinar on Biodiversity Data Mobilisation and Publishing - Bhutan *[05 Aug 2025]* # required
+    - title: Webinar on Biodiversity Data Mobilisation and Publishing - India [*4 Sep 2025*]
+      description: |
+        This webinar aims to sensitise participants to the challenges of biodiversity data availability, introduce tools and best practices for data mobilisation, and demonstrate how contributions from biodiversity hotspots, such as India, can inform global conservation efforts. 
+      #See <a href="https://www.icimod.org">more</a>
+      background: /assets/images/logos/ICIMOD Symbol-Blue.png
+      #imageLicense: Ramesh Kathariya, ICIMOD
+      categories: [ICIMOD, GBIF, ATREE India]
+
+      
+    - title: Webinar on Biodiversity Data Mobilisation and Publishing - Bhutan [*05 Aug 2025*] # required
       description: |      # required
         Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility. See <a href="https://www.facebook.com/share/p/1CfAXca64o/">more</a>
       href: https://nbc.gov.bt/announcements/upcoming-webinar-biodiversity-data-mobilisation-and-publishing/
@@ -19,7 +28,9 @@ news:
       # img required
       background: /assets/images/news_updates/RgTraining.JPG
       imageLicense: Ramesh Kathariya, ICIMOD
-      categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, Zoological Survey of India, National Science Library CAS - China, Forest Action Nepal] # optional
+      categories: [ICIMOD, GBIF, National Biodiversity Centre Bhutan, Zoological Survey of India, National Science Library CAS China, Forest Action Nepal] # optional
+
+
 
 
 resources:
