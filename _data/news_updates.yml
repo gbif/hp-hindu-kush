@@ -3,6 +3,14 @@ news:
   description: |
      Get our updates here!   
   features:
+    - title: Enhancing biodiversity data mobilisation from Nepal - Nepal [*31 Aug - 01 Sep 2025*]
+      description: |
+        This two-day national consultation will bring together government agencies responsible for biodiversity conservation and management, biodiversity experts, academia, and national herbaria and museums to discuss Nepal’s capacity for open access biodiversity data mobilisation, and the opportunities and challenges to do so. See <a href="https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/">more</a>
+      background: /assets/images/news_updates/Nepal_Nat_Cons.jpg
+      #imageLicense: Ramesh Kathariya, ICIMOD
+      categories: [ICIMOD, GBIF, ForestAction Nepal]
+      
+ 
     - title: Webinar on Biodiversity Data Mobilisation and Publishing - India [*4 Sep 2025*]
       description: |
         This webinar aims to sensitise participants to the challenges of biodiversity data availability, introduce tools and best practices for data mobilisation, and demonstrate how contributions from biodiversity hotspots, such as India, can inform global conservation efforts. See <a href="https://www.atree.org/atree_events/webinar-gbif/">more</a>
