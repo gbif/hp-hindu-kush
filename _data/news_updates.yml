@@ -48,7 +48,7 @@ news:
       # img required
       background: /assets/images/news_updates/RgTraining.JPG
       imageLicense: Ramesh Kathariya, ICIMOD
-      categories: [ICIMOD, GBIF, National Biodiversity Centre Bhutan, Zoological Survey of India, National Science Library CAS China, Forest Action Nepal] # optional
+      categories: [ICIMOD, GBIF, National Biodiversity Centre Bhutan, Zoological Survey of India, National Science Library CAS China, ForestAction Nepal] # optional
 
 
 
