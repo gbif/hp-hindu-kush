@@ -17,8 +17,13 @@ news:
       #imageLicense: Ramesh Kathariya, ICIMOD
       categories: [ICIMOD, GBIF]
 
-  
- 
+    - title: Webinar on biodiversity data mobilisation - Pakistan [*3 Sep 2025*]
+      description: |
+        We invite you to join the virtual webinar on biodiversity data mobilisation in Pakistan. The webinar aims to share the information in the global biodiversity database, GBIF. See <a href="https://hindu-kush.hp.gbif-staging.org/news_updates">more</a>
+      background: /assets/images/logos/ICIMOD Symbol-Blue.png
+      #imageLicense: Ramesh Kathariya, ICIMOD
+      categories: [ICIMOD, GBIF]
+
     - title: Webinar on Biodiversity Data Mobilisation and Publishing - India [*4 Sep 2025*]
       description: |
         This webinar aims to sensitise participants to the challenges of biodiversity data availability, introduce tools and best practices for data mobilisation, and demonstrate how contributions from biodiversity hotspots, such as India, can inform global conservation efforts. See <a href="https://www.atree.org/atree_events/webinar-gbif/">more</a>
