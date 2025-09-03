@@ -6,6 +6,7 @@ news:
     - title: Enhancing biodiversity data mobilisation from Nepal - Nepal [*31 Aug - 01 Sep 2025*]
       description: |
         This two-day national consultation will bring together government agencies responsible for biodiversity conservation and management, biodiversity experts, academia, and national herbaria and museums to discuss Nepal’s capacity for open-access biodiversity data mobilisation, as well as the opportunities and challenges associated with it. See <a href="https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/">more</a>
+      href: https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/
       background: /assets/images/news_updates/Nepal_Nat_Cons.jpg
       #imageLicense: Ramesh Kathariya, ICIMOD
       categories: [ICIMOD, GBIF, ForestAction Nepal]
@@ -13,6 +14,7 @@ news:
     - title: National Dissemination Webinar on Open Access Biodiversity Data Publishing in Bangladesh, [*4 Sep 2025*]
       description: |
         Join us for the webinar on sharing experiences and raising awareness about biodiversity data mobilisation in Bangladesh. The webinar aims to sensitise participants and also showcase the importance of sharing data. See <a href="https://eqms.com.bd/our-events/12/National%20Dissemination%20Webinar%20on%20Open%20Access%20Biodiversity%20Data%20Publishing%20in%20Bangladeshc">more</a>
+      href: https://eqms.com.bd/ourevents/12/National%20Dissemination%20Webinar%20on%20Open%20Access%20Biodiversity%20Data%20Publishing%20in%20Bangladeshc
       background: /assets/images/news_updates/Call4webinar-Bangladesh-03.09.2025.png
       #imageLicense: Ramesh Kathariya, ICIMOD
       categories: [ICIMOD, GBIF]
@@ -20,6 +22,7 @@ news:
     - title: Webinar on biodiversity data mobilisation - Pakistan [*3 Sep 2025*]
       description: |
         We invite you to join the virtual webinar on biodiversity data mobilisation in Pakistan. The webinar aims to share the information in the global biodiversity database, GBIF. See <a href="https://hindu-kush.hp.gbif-staging.org/news_updates">more</a>
+      href: https://hindu-kush.hp.gbif-staging.org/news_updates
       background: /assets/images/logos/ICIMOD Symbol-Blue.png
       #imageLicense: Ramesh Kathariya, ICIMOD
       categories: [ICIMOD, GBIF]
@@ -27,6 +30,7 @@ news:
     - title: Webinar on Biodiversity Data Mobilisation and Publishing - India [*4 Sep 2025*]
       description: |
         This webinar aims to sensitise participants to the challenges of biodiversity data availability, introduce tools and best practices for data mobilisation, and demonstrate how contributions from biodiversity hotspots, such as India, can inform global conservation efforts. See <a href="https://www.atree.org/atree_events/webinar-gbif/">more</a>
+      href: https://www.atree.org/atree_events/webinar-gbif/
       background: /assets/images/news_updates/Call4Webinar-India-28-08-2025.jpeg
       #imageLicense: Ramesh Kathariya, ICIMOD
       categories: [ICIMOD, GBIF, ATREE India]
