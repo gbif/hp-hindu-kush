@@ -29,7 +29,12 @@ composition:
           background: /assets/images/digitalBadge/SabitraPradhan.png
           imageLicense: ICIMOD
           href: /assets/images/digitalBadge/SabitraPradhan.png
-
+        - title: "Sailendra Dewan"
+          description: >
+            Sailendra Dewan is a Fellow in Residence at the Ashoka Trust for Research in Ecology and the Environment (ATREE), Eastern Himalaya. His work focuses on biodiversity conservation, landscape ecology, land-use change, and long-term ecological monitoring in the Eastern Himalaya. He has led initiatives on butterfly ecology, climate resilience agriculture,  while also engaging in capacity building, citizen science, and community-based conservation.
+          background: /assets/images/digitalBadge/SailendraDewan.png
+          imageLicense: ICIMOD
+          href: /assets/images/digitalBadge/SailendraDewan.png
 
 ---
 
