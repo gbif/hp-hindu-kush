@@ -31,10 +31,15 @@ composition:
           href: /assets/images/digitalBadge/SabitraPradhan.png
         - title: "Sailendra Dewan"
           description: >
-            Sailendra Dewan is a Fellow in Residence at the Ashoka Trust for Research in Ecology and the Environment (ATREE), Eastern Himalaya. His work focuses on biodiversity conservation, landscape ecology, land-use change, and long-term ecological monitoring in the Eastern Himalaya. He has led initiatives on butterfly ecology, climate resilience agriculture,  while also engaging in capacity building, citizen science, and community-based conservation.
+            Sailendra Dewan is a researcher at the Ashoka Trust for Research in Ecology and the Environment (ATREE), The Himalaya Initiative. His work focuses on biodiversity conservation, landscape ecology, land-use change, and long-term ecological monitoring in the Eastern Himalaya. He has led initiatives on butterfly ecology, climate resilience agriculture  while also engaging in capacity building, citizen science, and community-based conservation.
           background: /assets/images/digitalBadge/SailendraDewan.png
           imageLicense: ICIMOD
           href: /assets/images/digitalBadge/SailendraDewan.png
-
+        - title: "Nourin Ahosan Habib"
+          description: >
+            Nourin Ahosan Habib is a Consultant at EQMS Consulting Limited, Bangladesh, with over nine years of experience in ecology, biodiversity, and natural resource management. He has worked on conservation and impact assessments across Asia, Europe, and Africa, developed biodiversity management plans for major projects, and actively contributes to global ecological networks promoting biodiversity conservation, sustainable forest and nature management.
+          background: /assets/images/digitalBadge/NourinAHabib.png
+          imageLicense: ICIMOD
+          href: /assets/images/digitalBadge/NourinAHabib.png
 ---
 
