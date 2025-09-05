@@ -17,7 +17,7 @@ news:
       href: https://eqms.com.bd/ourevents/12/National%20Dissemination%20Webinar%20on%20Open%20Access%20Biodiversity%20Data%20Publishing%20in%20Bangladeshc
       background: /assets/images/news_updates/Call4webinar-Bangladesh-03.09.2025.png
       #imageLicense: Ramesh Kathariya, ICIMOD
-      categories: [ICIMOD, GBIF]
+      categories: [ICIMOD, GBIF, Noakhali Science and Technology University, EQMS Consulting Limited]
 
     - title: Webinar on biodiversity data mobilisation - Pakistan [*3 Sep 2025*]
       description: |
@@ -82,7 +82,7 @@ resources:
       # img required
       background: /assets/images/news_updates/Lichen.05.08.2025.jpg
       imageLicense: Ramesh Kathariya, ICIMOD
-      categories: ICIMOD, Sasha Sunuwar, Bandana Shakya, Ramesh Kathariya] # optional
+      categories: [ICIMOD, Sasha Sunuwar, Bandana Shakya, Ramesh Kathariya] # optional
 
     - title: Flora of Kailash Sacred Landscape Nepal - An Annotated Checklist. Volume 1 # required
       description: |      # required
