@@ -41,5 +41,11 @@ composition:
           background: /assets/images/digitalBadge/NourinAHabib.png
           imageLicense: ICIMOD
           href: /assets/images/digitalBadge/NourinAHabib.png
+        - title: "Humayra Mahmud"
+          description: >
+            Humayra Mahmud is an Assistant Professor of Zoology at Noakhali Science and Technology University, Bangladesh. With degrees in Wildlife Biology from the University of Dhaka, her research focused on avifauna in the Sundarbans. She has worked with IUCN, WildTeam, and CCA, contributing to bird monitoring, marine turtle conservation, and wildlife education, reflecting her strong commitment to conservation and research.
+          background: /assets/images/digitalBadge/HumayraMahmud.png
+          imageLicense: ICIMOD
+          href: /assets/images/digitalBadge/HumayraMahmud.png
 ---
 
