@@ -4,8 +4,8 @@ layout: home
 preTitle: Regional Data Portal
 title: Hindu Kush Himalayan Biodiversity Information Facility
 description: Encouraging sharing and use of biodiversity information!
-background:  "assets/images/placeholders/example.jpg"
-imageLicense: Aung Thu Moe, Myanmar
+background:  "assets/assets/images/placeholders/home/Erythrinaarborescens.JPG"
+imageLicense: Ramesh Kathariya, ICIMOD
 height: 81vh
 cta:
   - text: Records
