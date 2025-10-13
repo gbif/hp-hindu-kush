@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -14,7 +15,7 @@
 # You should also look at https://hp-theme.gbif-staging.org/documentation-intro for options
 #
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
+# These are used to personalise your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
@@ -54,7 +55,7 @@ algae:
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#036cb6"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      primary: "#25610a"          # Primary color of your brand. Use HEX code. Used for buttons and links
       # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
