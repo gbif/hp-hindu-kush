@@ -47,5 +47,11 @@ composition:
           background: /assets/images/digitalBadge/HumayraMahmud.png
           imageLicense: ICIMOD
           href: /assets/images/digitalBadge/HumayraMahmud.png
+        - title: "Binaya Ghimire"
+          description: >
+            Binaya serves as a Research Officer at Friends of Nature Nepal. He holds a Master’s in Environmental Science from Tribhuvan University and specialises in wildlife research, conservation education, and community engagement. Passionate about birds and mammals, he focuses on integrating science and local knowledge to promote sustainable wildlife conservation and coexistence with nature.
+          background: /assets/images/digitalBadge/BinayaGhimire.png
+          imageLicense: ICIMOD
+          href: /assets/images/digitalBadge/BinayaGhimire.png
 ---
 
