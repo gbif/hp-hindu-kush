@@ -53,5 +53,11 @@ composition:
           background: /assets/images/digitalBadge/BinayaGhimire.png
           imageLicense: ICIMOD
           href: /assets/images/digitalBadge/BinayaGhimire.png
+        - title: "Suman Ghimire"
+          description: >
+            Suman Ghimire is an Assistant Professor of Forestry at the College of Natural Resource Management, Katari (AFU, Nepal), and a former Ranger at the Department of National Parks and Wildlife Conservation. His work focuses on avian ecology and biodiversity conservation, with particular emphasis on threatened vulture species and their habitats in Nepal.
+          background: /assets/images/digitalBadge/SumanGhimire.png
+          imageLicense: ICIMOD
+          href: /assets/images/digitalBadge/SumanGhimire.png
 ---
 
