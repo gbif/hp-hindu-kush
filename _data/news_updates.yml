@@ -9,6 +9,13 @@ news:
       href: https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/
       background: /assets/images/news_updates/Nepal_Nat_Cons.jpg
       #imageLicense: Ramesh Kathariya, ICIMOD
+      cta:
+      - text: Event Call
+        href: https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/
+        isPrimary: false      
+      - text: View event
+        href: /post/National-consultation-on-enhancing-biodiversity-data-mobilisation-from-Nepal
+        isPrimary: true      
       categories: [ICIMOD, GBIF, ForestAction Nepal]
 
     - title: National Dissemination Webinar on Open Access Biodiversity Data Publishing in Bangladesh, [*4 Sep 2025*]
@@ -17,6 +24,10 @@ news:
       href: https://eqms.com.bd/ourevents/12/National%20Dissemination%20Webinar%20on%20Open%20Access%20Biodiversity%20Data%20Publishing%20in%20Bangladeshc
       background: /assets/images/news_updates/Call4webinar-Bangladesh-03.09.2025.png
       #imageLicense: Ramesh Kathariya, ICIMOD
+       cta:
+       - text: Event Call
+         href: https://eqms.com.bd/ourevents/12/National%20Dissemination%20Webinar%20on%20Open%20Access%20Biodiversity%20Data%20Publishing%20in%20Bangladeshc
+         isPrimary: false 
       categories: [ICIMOD, GBIF, Noakhali Science and Technology University, EQMS Consulting Limited]
 
     - title: Webinar on biodiversity data mobilisation - Pakistan [*3 Sep 2025*]
@@ -25,6 +36,10 @@ news:
       href: https://hindu-kush.hp.gbif-staging.org/news_updates
       background: /assets/images/logos/ICIMOD Symbol-Blue.png
       #imageLicense: Ramesh Kathariya, ICIMOD
+      cta:
+      - text: Event call
+        href: https://hindu-kush.hp.gbif-staging.org/news_updates
+        isPrimary: false
       categories: [ICIMOD, GBIF]
 
     - title: Webinar on Biodiversity Data Mobilisation and Publishing - India [*4 Sep 2025*]
@@ -33,6 +48,10 @@ news:
       href: https://www.atree.org/atree_events/webinar-gbif/
       background: /assets/images/news_updates/Call4Webinar-India-28-08-2025.jpeg
       #imageLicense: Ramesh Kathariya, ICIMOD
+      cta:
+      - text: Event call
+        href: https://www.atree.org/atree_events/webinar-gbif/
+        isPrimary: false
       categories: [ICIMOD, GBIF, ATREE India]
 
       
@@ -43,6 +62,10 @@ news:
       # img required
       background: /assets/images/news_updates/Call4webinar-Bhutan-05.08.2025.jpg
       #imageLicense: Ramesh Kathariya, ICIMOD
+      cta:
+      - text: Event call
+        href: https://nbc.gov.bt/announcements/upcoming-webinar-biodiversity-data-mobilisation-and-publishing/
+        isPrimary: false
       categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, National Mushroom Centre - Bhutan] # optional
          
     - title: Regional Training on Biodiversity Data Mobilisation *[19 - 21 May 2025]* # required
