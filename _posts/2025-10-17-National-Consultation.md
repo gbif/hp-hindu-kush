@@ -21,11 +21,17 @@ cta: # OPTIONAL list of buttons
 
 ## About the workshop
 Nepal’s biodiversity is under increasing pressure from land-use change, climate impacts, and invasive species. To address gaps in open-access data sharing, a national consultation workshop was held in Nagarkot, jointly organised by ForestAction Nepal and ICIMOD, with support from the GBIF Capacity Enhancement Support Programme. The event brought together 24 experts from government, academia, NGOs, and national herbaria to discuss strategies for mobilising biodiversity data through platforms like GBIF and HKHBIF, and aligning efforts with the Kunming-Montreal Global Biodiversity Framework (KMGBF).
+
 Key challenges identified included limited awareness, fragmented data ownership, lack of digitisation, and insufficient technical capacity. Opportunities lie in ongoing digitisation efforts, emerging technologies like eDNA, and growing institutional interest in collaboration. The workshop emphasised the need for national participation in GBIF, policy reforms to institutionalise data sharing, and investment in infrastructure and training.
+
 The way forward includes developing a national roadmap, submitting multi-institutional funding proposals, promoting citizen science, and integrating traditional ecological knowledge. Strengthening regional and global collaboration will be essential to lead Nepal’s biodiversity data mobilisation efforts.
 
 ## Contacts:
 [Bandana Shakya](mailto: bandana.shakya@icimod.org), ICIMOD
+
 [Ramesh Kathariya](mailto: ramesh.kathariya@icimod.org), ICIMOD
+
 [Lily Shrestha](mailto:lshrestha@gbif.org), Asia Regional Support Team, GBIF
+
 [Lila Nath Sharma](mailto:lilanathsharma@gmail.com), ForestAction Nepal
+
