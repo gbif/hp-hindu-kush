@@ -4,7 +4,7 @@ permalink: /post/National-consultation-on-enhancing-biodiversity-data-mobilisati
 title: "National consultation on enhancing biodiversity data mobilisation from Nepal"
 preTitle: 31 August-01 September 2025, Nagarkot, Nepal
 description: The national workshop conveyed the importance of biodiversity data sharing through GBIF and HKHBIF.
-#background: 
+background: /assets/images/news_updates/Nepal_Nat_Cons.jpg
 #imageLicense:  # OPTIONAL
 
 cta: # OPTIONAL list of buttons
@@ -34,6 +34,7 @@ The way forward includes developing a national roadmap, submitting multi-institu
 [Lily Shrestha](mailto:lshrestha@gbif.org), Asia Regional Support Team, GBIF
 
 [Lila Nath Sharma](mailto:lilanathsharma@gmail.com), ForestAction Nepal
+
 
 
 
