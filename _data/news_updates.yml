@@ -76,6 +76,9 @@ news:
       background: /assets/images/news_updates/RgTraining.JPG
       imageLicense: Ramesh Kathariya, ICIMOD
       cta:
+      - text: Event call
+        href: https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/
+        isPrimary: false
       - text: Report
         #href: 
         isPrimary: true
