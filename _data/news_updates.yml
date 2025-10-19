@@ -10,8 +10,11 @@ news:
       background: /assets/images/news_updates/Nepal_Nat_Cons.jpg
       imageLicense: Ramesh Kathariya, ICIMOD
       cta:
+      - text: Event call
+        href: https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/
+        isPrimary: false
       - text: Report
-        #href: 
+        href: /post/National-consultation-on-enhancing-biodiversity-data-mobilisation-from-Nepal
         isPrimary: true   
       categories: [ICIMOD, GBIF, ForestAction Nepal]
 
