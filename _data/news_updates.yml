@@ -10,12 +10,9 @@ news:
       background: /assets/images/news_updates/Nepal_Nat_Cons.jpg
       #imageLicense: Ramesh Kathariya, ICIMOD
       cta:
-      - text: Event Call
-        href: https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/
-        isPrimary: false      
-      - text: View event
-        href: /post/National-consultation-on-enhancing-biodiversity-data-mobilisation-from-Nepal
-        isPrimary: true      
+      - text: Report
+        #href: 
+        isPrimary: true   
       categories: [ICIMOD, GBIF, ForestAction Nepal]
 
     - title: National Dissemination Webinar on Open Access Biodiversity Data Publishing in Bangladesh, [*4 Sep 2025*]
