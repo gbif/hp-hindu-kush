@@ -3,6 +3,18 @@ news:
   description: |
      Get our updates here!   
   features:
+    - title: National dissemination webinar on biodiversity data mobilisation in Pakistan [*29 Oct 2025*]
+      description: |
+        We invite you to join the virtual webinar on biodiversity data mobilisation in Pakistan. The webinar aims to share the information in the global biodiversity database, GBIF. See <a href="https://hindu-kush.hp.gbif-staging.org/news_updates">more</a>
+      href: https://hindu-kush.hp.gbif-staging.org/news_updates
+      background: /assets/images/logos/ICIMOD Symbol-Blue.png
+      #imageLicense: Ramesh Kathariya, ICIMOD
+      cta:
+      - text: Event call
+        href: https://hindu-kush.hp.gbif-staging.org/news_updates
+        isPrimary: false
+      categories: [ICIMOD, GBIF, Khyber Pakhtunkhwa Forest Department]
+    
     - title: Enhancing biodiversity data mobilisation from Nepal - Nepal [*31 Aug - 01 Sep 2025*]
       description: |
         This two-day national consultation will bring together government agencies responsible for biodiversity conservation and management, biodiversity experts, academia, and national herbaria and museums to discuss Nepal’s capacity for open-access biodiversity data mobilisation, as well as the opportunities and challenges associated with it. See <a href="https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/">more</a>
@@ -30,17 +42,6 @@ news:
         isPrimary: false 
       categories: [ICIMOD, GBIF, Noakhali Science and Technology University, EQMS Consulting Limited]
 
-    - title: Webinar on biodiversity data mobilisation - Pakistan [*3 Sep 2025*]
-      description: |
-        We invite you to join the virtual webinar on biodiversity data mobilisation in Pakistan. The webinar aims to share the information in the global biodiversity database, GBIF. See <a href="https://hindu-kush.hp.gbif-staging.org/news_updates">more</a>
-      href: https://hindu-kush.hp.gbif-staging.org/news_updates
-      background: /assets/images/logos/ICIMOD Symbol-Blue.png
-      #imageLicense: Ramesh Kathariya, ICIMOD
-      cta:
-      - text: Event call
-        href: https://hindu-kush.hp.gbif-staging.org/news_updates
-        isPrimary: false
-      categories: [ICIMOD, GBIF]
 
     - title: Webinar on Biodiversity Data Mobilisation and Publishing - India [*4 Sep 2025*]
       description: |
