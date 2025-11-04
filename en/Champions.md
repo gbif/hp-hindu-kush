@@ -59,5 +59,11 @@ composition:
           background: /assets/images/digitalBadge/SumanGhimire.png
           imageLicense: ICIMOD
           href: /assets/images/digitalBadge/SumanGhimire.png
+        - title: "Santoshi Shrestha"
+          description: >
+            Santoshi Shrestha is an Assistant Professor at the Central Department of Zoology, Tribhuvan University, Nepal. Her research focuses on fish taxonomy, ecology and biodiversity conservation. She has led and contributed to multiple national and international projects on freshwater ecosystem assessment and species documentation. As an active member of several scientific societies, she is committed to advancing research and capacity building in fish biodiversity management.
+          background: /assets/images/digitalBadge/SantoshiShrestha.png
+          #imageLicense: ICIMOD
+          href: /assets/images/digitalBadge/SantoshiShrestha.png
 ---
 
