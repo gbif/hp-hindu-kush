@@ -65,5 +65,11 @@ composition:
           background: /assets/images/digitalBadge/SantoshiShrestha.png
           #imageLicense: ICIMOD
           href: /assets/images/digitalBadge/SantoshiShrestha.png
+        - title: "Ajaz Ahmed"
+          description: >
+            Ajaz Ahmed, Assistant Director in the KP Forest Department, works in Chitral’s Hindu Kush Himalaya region on restoring landscapes rich in rare flora. A dedicated researcher and author of two books and several papers, he specialises in the floral biodiversity of the Hindu Kush Himalayan region, focusing on biodiversity conservation, ecosystem restoration, and sustainable mountain flora management.
+          background: /assets/images/digitalBadge/AjazAhmed.png
+          #imageLicense: ICIMOD
+          href: /assets/images/digitalBadge/AjazAhmed.png
 ---
 
