@@ -25,13 +25,13 @@ A webinar on Biodiversity Data Mobilisation in Pakistan was held to enhance unde
 ## Key Highlights
 The session opened with an introduction to the objectives of the webinar, emphasising the growing importance of biodiversity data management and the value of inter-institutional collaboration. The discussions highlighted Pakistan’s rich and diverse ecological regions and the urgent need to mobilize biodiversity data for conservation and sustainable resource use.
 
-A presentation from GBIF Asia provided a global overview of GBIF’s role in making biodiversity data openly accessible and explained the benefits of publishing data, including increased visibility, opportunities for collaboration, and improved research outcomes. It was noted that while Pakistan currently has around 300 registered publishers in GBIF, most remain inactive. The session encouraged active participation, capacity building, and greater institutional engagement.
+A presentation from GBIF Asia provided a global overview of GBIF’s role in making biodiversity data openly accessible and explained the benefits of publishing data, including increased visibility, opportunities for collaboration, and improved research outcomes. It was noted that while Pakistan currently has good number of registered publishers in GBIF, most remain inactive. The session encouraged active participation, capacity building, and greater institutional engagement.
 
 There was also showcasing of the HKHBIF hosted portal.
 
 ## Challenges and Opportunities
 
-Key challenges identified included limited awareness of data sharing benefits, reluctance to share data, and a lack of financial and technical resources for data digitization. The webinar emphasized the importance of technical assistance, data standardization, and capacity development to address these barriers. Participants were encouraged to use available publishing platforms, such as the ICIMOD-hosted IPT or the GBIF Asia IPT, for biodiversity data publication.
+Key challenges identified included limited awareness of data sharing benefits, reluctance to share data, and a lack of financial and technical resources for data digitization. The webinar emphasised the importance of technical assistance, data standardisation, and capacity development to address these barriers. Participants were encouraged to use available publishing platforms, such as the ICIMOD-hosted IPT, for biodiversity data publishing.
 
 ## Action Points
 
