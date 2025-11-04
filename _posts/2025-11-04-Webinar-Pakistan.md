@@ -46,13 +46,13 @@ Key challenges identified included limited awareness of data sharing benefits, r
 The session concluded with an open discussion and Q&A, focusing on data sharing mechanisms, quality standards, and the potential for enhanced collaboration in biodiversity information management. The webinar reinforced a shared commitment to mobilize biodiversity data from Pakistan to support conservation, research, and policy development at both national and regional levels
 
 ## Contacts:
-[Bandana Shakya](mailto: bandana.shakya@icimod.org), ICIMOD
+[Bandana Shakya](mailto:bandana.shakya@icimod.org), ICIMOD
 
-[Ramesh Kathariya](mailto: ramesh.kathariya@icimod.org), ICIMOD
+[Ramesh Kathariya](mailto:ramesh.kathariya@icimod.org), ICIMOD
 
 [Lily Shrestha](mailto:lshrestha@gbif.org), Asia Regional Support Team, GBIF
 
-[Ajaz Ahmed(mailto:ajaz.ntfp@hotmail.com), Khyber Pakhtunkhwa Forest Department, Pakistan
+[Ajaz Ahmed](mailto:ajaz.ntfp@hotmail.com), Khyber Pakhtunkhwa Forest Department, Pakistan
 
 
 
