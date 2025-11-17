@@ -17,8 +17,12 @@ columns:
   - name: Tools
     description: | # Can be Markdown
       [Integrated Publishing Tool](http://rds.icimod.org:8080/hkh-bif/)
+      
+      [OpenRefine](https://openrefine.org/)
+      
+      [GEOPICK](https://geopick.gbif.org/)
   
-  - name: Contact
+  - name: Social Media
     description: | # Can be Markdown
 
     connectIcons: true
@@ -29,6 +33,7 @@ columns:
       Khumaltar, Lalitpur
       Kathmandu, Nepal
       G.P.O Box 3226
+      
       [Map](https://maps.app.goo.gl/sYf4txMiP6m3g2aSA)
 
     
