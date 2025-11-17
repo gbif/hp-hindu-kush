@@ -20,16 +20,16 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      Khumaltar, Lalitpur
-      Kathmandu, Nepal
-      G.P.O Box 3226
-      
+
     connectIcons: true
 
 
   - name: Location
     description: | # Can be Markdown
-      [Click me](https://maps.app.goo.gl/sYf4txMiP6m3g2aSA)
+      Khumaltar, Lalitpur
+      Kathmandu, Nepal
+      G.P.O Box 3226
+      [Map](https://maps.app.goo.gl/sYf4txMiP6m3g2aSA)
 
     
 other: |
