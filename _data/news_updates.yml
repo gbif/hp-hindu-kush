@@ -17,7 +17,7 @@ news:
         href: /post/Webinar-on-biodiversity-data-mobilisation-in-Pakistan
         isPrimary: true   
       categories: [ICIMOD, GBIF, Khyber Pakhtunkhwa Forest Department]
-    
+# NEPAL NATIONAL CONSULTATION    
     - title: Enhancing biodiversity data mobilisation from Nepal - Nepal [*31 Aug - 01 Sep 2025*]
       description: |
         This two-day national consultation will bring together government agencies responsible for biodiversity conservation and management, biodiversity experts, academia, and national herbaria and museums to discuss Nepal’s capacity for open-access biodiversity data mobilisation, as well as the opportunities and challenges associated with it. See <a href="https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/">more</a>
@@ -32,7 +32,7 @@ news:
         href: /post/National-consultation-on-enhancing-biodiversity-data-mobilisation-from-Nepal
         isPrimary: true   
       categories: [ICIMOD, GBIF, ForestAction Nepal]
-
+#BANGLADESH NATIONAL CONSULTATION
     - title: National Dissemination Webinar on Open Access Biodiversity Data Publishing in Bangladesh, [*4 Sep 2025*]
       description: |
         Join us for the webinar on sharing experiences and raising awareness about biodiversity data mobilisation in Bangladesh. The webinar aims to sensitise participants and also showcase the importance of sharing data. See <a href="https://eqms.com.bd/our-events/12/National%20Dissemination%20Webinar%20on%20Open%20Access%20Biodiversity%20Data%20Publishing%20in%20Bangladeshc">more</a>
@@ -45,7 +45,7 @@ news:
         isPrimary: false 
       categories: [ICIMOD, GBIF, Noakhali Science and Technology University, EQMS Consulting Limited]
 
-
+#INDIA NATIONAL CONSULTATION
     - title: Webinar on Biodiversity Data Mobilisation and Publishing - India [*4 Sep 2025*]
       description: |
         This webinar aims to sensitise participants to the challenges of biodiversity data availability, introduce tools and best practices for data mobilisation, and demonstrate how contributions from biodiversity hotspots, such as India, can inform global conservation efforts. See <a href="https://www.atree.org/atree_events/webinar-gbif/">more</a>
@@ -58,7 +58,7 @@ news:
         isPrimary: false
       - text: Report
         href: /post/Webinar-on-biodiversity-data-mobilisation-in-India
-        isPrimary: true   
+        isPrimary: true
       categories: [ICIMOD, GBIF, ATREE India]
 
       
