@@ -7,7 +7,7 @@ news:
       description: |
         We invite you to join the virtual webinar on biodiversity data mobilisation in Pakistan. The webinar aims to share the information in the global biodiversity database, GBIF. See <a href="https://hindu-kush.hp.gbif-staging.org/news_updates">more</a>
       href: https://hindu-kush.hp.gbif-staging.org/news_updates
-      background: /assets/images/logos/ICIMOD Symbol-Blue.png
+      background: /assets/images/news_updates/Call4Webinar_Pakistan.png
       #imageLicense: Ramesh Kathariya, ICIMOD
       cta:
       - text: Event call
