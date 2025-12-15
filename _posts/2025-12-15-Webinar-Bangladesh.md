@@ -2,8 +2,8 @@
 layout: post
 permalink: /post/Webinar-on-biodiversity-data-mobilisation-in-Bangladesh
 title: "National Dissemination Webinar on Biodiversity Data Publishing in Bangladesh"
-preTitle: 5 August 2025
-description: Organised by the EQMS Consulting Limited and Noakhali Science and Technology University, Bangladesh in collaboration with the ICIMOD and GBIF
+preTitle: 4 September 2025
+description: Organised by the EQMS Consulting Limited and Noakhali Science and Technology University, Bangladesh, in collaboration with the ICIMOD and GBIF
 background: /assets/images/news_updates/Call4webinar-Bangladesh-03.09.2025.png
 #imageLicense:  # OPTIONAL
 
