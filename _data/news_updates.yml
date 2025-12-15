@@ -30,7 +30,7 @@ news:
         isPrimary: false
       - text: Report
         href: /post/National-consultation-on-enhancing-biodiversity-data-mobilisation-from-Nepal
-        isPrimary: true   
+        isPrimary: true
       categories: [ICIMOD, GBIF, ForestAction Nepal]
 #BANGLADESH NATIONAL CONSULTATION
     - title: National Dissemination Webinar on Open Access Biodiversity Data Publishing in Bangladesh, [*4 Sep 2025*]
