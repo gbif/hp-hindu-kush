@@ -3,8 +3,8 @@ layout: post
 permalink: /post/Webinar-on-biodiversity-data-mobilisation-in-Pakistan
 title: "Webinar on biodiversity data mobilisation in Pakistan"
 preTitle: 4 November 2025
-description: Organised by Centre of Plant Biodiversity, University of Peshawar and Khyber Pakhtunkhwa Forest Department in collaboration with ICIMOD and GBIF
-background: /assets/images/logos/ICIMOD Symbol-Blue.png
+description: Organised by the Centre of Plant Biodiversity, University of Peshawar and Khyber Pakhtunkhwa Forest Department in collaboration with ICIMOD and GBIF
+background: /assets/images/news_updates/Call4Webinar_Pakistan.png
 #imageLicense:  # OPTIONAL
 
 cta: # OPTIONAL list of buttons
