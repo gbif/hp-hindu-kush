@@ -2,7 +2,7 @@
 layout: post
 permalink: /post/Webinar-on-biodiversity-data-mobilisation-in-India
 title: "Online Webinar on Biodiversity Data Mobilisation and Publishing – GBIF"
-preTitle: )4 November 2025
+preTitle: 4 September 2025
 description: Organised by Ashoka Trust for Research in Ecology and the Environment (ATREE), Eastern Himalaya, in collaboration with GBIF Asia and ICIMOD
 background: /assets/images/news_updates/Call4Webinar-India-28-08-2025.jpeg
 #imageLicense:  # OPTIONAL
