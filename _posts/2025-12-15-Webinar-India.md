@@ -61,7 +61,6 @@ The webinar successfully raised awareness about the importance of biodiversity d
 
 [Lily Shrestha](mailto:lshrestha@gbif.org), Asia Regional Support Team, GBIF
 
-[Bandana Shakya](mailto:bandana.shakya@icimod.org), ICIMOD
-
 [Ramesh Kathariya](mailto:ramesh.kathariya@icimod.org), ICIMOD
 
+[Bandana Shakya](mailto:bandana.shakya@icimod.org), ICIMOD
