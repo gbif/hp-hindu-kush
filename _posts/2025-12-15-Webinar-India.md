@@ -53,10 +53,10 @@ The online webinar on “Biodiversity Data Mobilisation and Publishing – GBIF�
 
 The webinar successfully raised awareness about the importance of biodiversity data mobilisation and the role of GBIF in enabling global data sharing. Participants gained practical insights into data standards and publishing workflows, reinforcing the need for collaborative efforts to fill data gaps in biodiversity-rich regions. Moving forward, sustained capacity building, regional partnerships, and active engagement of citizen scientists will be critical to achieving comprehensive biodiversity data coverage.
 
-### Expert Panel:
+## Expert Panel:
 - Speakers included Dr. Nakul Chettri (ATREE), Mrs. Lily Shrestha (GBIF Asia), Dr. Sailendra Dewan (ATREE), Dr. Vijay Barve (GBIF Asia), Dr. Joe Miller (GBIF Secretariat), and Mr. Ramesh Kathariya (HKHBIF/ICIMOD).
 
-## Contacts:
+## Contacts
 [Sailendra Dewan](mailto:sailendra.dewan@atree.org), Ashoka Trust for Research in Ecology and the Environment (ATREE), The Himalaya Initiative, India
 
 [Lily Shrestha](mailto:lshrestha@gbif.org), Asia Regional Support Team, GBIF
