@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /post/Webinar-on-biodiversity-data-mobilisation-in-India
+permalink: /post/Webinar-on-biodiversity-data-mobilisation-in-Bhutan
 title: "Biodiversity Data Mobilisation and Publishing"
 preTitle: 5 August 2025
 description: Organised by the National Biodiversity Centre and the National Mushroom Centre, Bhutan, in collaboration with the ICIMOD and GBIF
