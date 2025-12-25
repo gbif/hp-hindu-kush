@@ -15,7 +15,7 @@ composition:
       title: Our Team
       description: Meet the experts driving biodiversity conservation and sustainable development in the HKH region.
       features:
-        - title: "Pema Gyamtsho DG, ICIMOD (Head of Delegation, HKHBIF)"
+        - title: "Pema Gyamtsho, DG, ICIMOD (Head of Delegation, HKHBIF)"
           description: >
             Dr. Pema Gyamtsho leads ICIMOD with a vision to enhance regional cooperation and sustainable development in the Hindu Kush Himalaya. He has a strong background in natural resource management and policy advocacy.
           background: /assets/images/team/pema_gyamtsho.jpg
