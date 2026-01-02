@@ -17,8 +17,6 @@ cta:
     href: /icimod
 composition:
   - type: heroImage # the block type
-  # - type: stats
-   # data: examples.stats
   - type: dashboard
     data: dashboard.dashboard
   - type: split
