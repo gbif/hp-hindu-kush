@@ -19,6 +19,11 @@ composition:
   - type: heroImage # the block type
   - type: stats
     data: examples.stats
+  - type: dashboard
+    title: "HKH Biodiversity at a Glance"
+    charts:
+     - occurrenceCountByYear
+     - recordCountByTaxon
   - type: split
     data: examples.herbariumImageExample
   - type: split
