@@ -1,6 +1,6 @@
 ---
 lang-ref: home
-layout: home
+layout: compose
 preTitle: Regional Data Portal
 title: Hindu Kush Himalayan Biodiversity Information Facility
 description: Encouraging sharing and use of biodiversity information!
@@ -20,10 +20,7 @@ composition:
   - type: stats
     data: examples.stats
   - type: dashboard
-    title: "HKH Biodiversity at a Glance"
-    charts:
-     - occurrenceCountByYear
-     - recordCountByTaxon
+    data: dashboard.dashboard
   - type: split
     data: examples.herbariumImageExample
   - type: split
