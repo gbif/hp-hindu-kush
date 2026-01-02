@@ -28,38 +28,38 @@ couldBeAnyName:
 #      href: /hkhbif
       # img required
       background: /assets/images/placeholders/Raise_Awareness.jpg
-      imageLicense: Ramesh Kathariya, ICIMOD
+      #imageLicense: Ramesh Kathariya, ICIMOD
       # categories: [drawings] # optional
     - title: Global Communication # required
       description: |      # required
         Advocate for the worldwide sharing of biodiversity data to inform the public and decision-makers about its importance.
 #      href: /hkhbif
       background: /assets/images/placeholders/Global_Communication.jpg
-      imageLicense: Ramesh Kathariya, ICIMOD
+      #imageLicense: Ramesh Kathariya, ICIMOD
     - title: Organisational Strengthening # required
       description: |      # required
         Enhance HKHBIF's presence and expand its network of data holders and publishers to improve collaboration and data accessibility.
 #      href: /hkhbif
       background: /assets/images/placeholders/Organisational_Strengthening.jpg
-      imageLicense: Ramesh Kathariya, ICIMOD
+      #imageLicense: Ramesh Kathariya, ICIMOD
     - title: Partnership Development # required
       description: |      # required
         Seek collaborations with other Asian regional nodes to strengthen regional cooperation and resource sharing in biodiversity initiatives.
 #      href: /hkhbif
       background: /assets/images/placeholders/Partnership_Development.jpg
-      imageLicense: Ramesh Kathariya, ICIMOD
+      #imageLicense: Ramesh Kathariya, ICIMOD
     - title: Showcase Biodiversity # required
       description: |      # required
         Highlight and promote the unique biodiversity of HKH member countries to raise awareness and support for conservation efforts.
 #      href: /hkhbif
       background: /assets/images/placeholders/Showcase_Biodiversity.jpg
-      imageLicense: Ramesh Kathariya, ICIMOD
+      #imageLicense: Ramesh Kathariya, ICIMOD
     - title: Open Data # required
       description: |      # required
         Encourage the publication of biodiversity data in open-access formats to facilitate global sharing and accessibility.
 #      href: /hkhbif
       background: /assets/images/placeholders/Open_Data.jpg
-      imageLicense: Ramesh Kathariya, ICIMOD  
+      #imageLicense: Ramesh Kathariya, ICIMOD  
 
       
 
