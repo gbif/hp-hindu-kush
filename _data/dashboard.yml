@@ -1,5 +1,6 @@
 title: "HKH Biodiversity at a glance"
 dashboard:
+  baseUrl: /occurrence/search
   config:
     predicate:
       type: within
