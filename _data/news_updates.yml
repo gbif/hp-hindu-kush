@@ -51,9 +51,6 @@ news:
       background: /assets/images/news_updates/Call4webinar-Bangladesh-03.09.2025.png
       #imageLicense: Ramesh Kathariya, ICIMOD
       cta:
-      - text: Event Call
-        href: https://eqms.com.bd/public/our-events/12/National%20Dissemination%20Webinar%20on%20Open%20Access%20Biodiversity%20Data%20Publishing%20in%20Bangladesh
-        isPrimary: false
       - text: Report
         href: /post/Webinar-on-biodiversity-data-mobilisation-in-Bangladesh
         isPrimary: true
