@@ -5,12 +5,11 @@ news:
   features:
     - title: National dissemination webinar on biodiversity data mobilisation in Pakistan [*04 Nov 2025*]
       description: |
-        We invite you to join the virtual webinar on biodiversity data mobilisation in Pakistan. The webinar aims to share the information in the global biodiversity database, GBIF. See <a href="https://hindu-kush.hp.gbif-staging.org/news_updates">more</a>
+        We invite you to join the virtual webinar on biodiversity data mobilisation in Pakistan. The webinar aims to share the information in the global biodiversity database, GBIF.
         <br><br>
         <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">ICIMOD</span>
         <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">GBIF</span>
         <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">Khyber Pakhtunkhwa Forest Department</span>
-      href: https://hindu-kush.hp.gbif-staging.org/news_updates
       background: /assets/images/news_updates/Call4Webinar_Pakistan.png
       #imageLicense: Ramesh Kathariya, ICIMOD
       cta:
@@ -21,7 +20,11 @@ news:
 # NEPAL NATIONAL CONSULTATION    
     - title: Enhancing biodiversity data mobilisation from Nepal - Nepal [*31 Aug - 01 Sep 2025*]
       description: |
-        This two-day national consultation will bring together government agencies responsible for biodiversity conservation and management, biodiversity experts, academia, and national herbaria and museums to discuss Nepal’s capacity for open-access biodiversity data mobilisation, as well as the opportunities and challenges associated with it. See <a href="https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/">more</a>
+        This two-day national consultation will bring together government agencies responsible for biodiversity conservation and management, biodiversity experts, academia, and national herbaria and museums to discuss Nepal’s capacity for open-access biodiversity data mobilisation, as well as the opportunities and challenges associated with it.
+        <br><br>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">ICIMOD</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">GBIF</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">ForestAction Nepal</span>
       href: https://www.icimod.org/event/landscapes/enhancing-biodiversity-data-mobilisation-from-nepal/
       background: /assets/images/news_updates/Nepal_Nat_Cons.jpg
       #imageLicense: Ramesh Kathariya, ICIMOD
@@ -32,12 +35,16 @@ news:
       - text: Report
         href: /post/National-consultation-on-enhancing-biodiversity-data-mobilisation-from-Nepal
         isPrimary: true
-      categories: [ICIMOD, GBIF, ForestAction Nepal]
+    #  categories: [ICIMOD, GBIF, ForestAction Nepal]
 #BANGLADESH NATIONAL CONSULTATION
     - title: National Dissemination Webinar on Open Access Biodiversity Data Publishing in Bangladesh, [*4 Sep 2025*]
       description: |
-        Join us for the webinar on sharing experiences and raising awareness about biodiversity data mobilisation in Bangladesh. The webinar aims to sensitise participants and also showcase the importance of sharing data. See <a href="https://eqms.com.bd/our-events/12/National%20Dissemination%20Webinar%20on%20Open%20Access%20Biodiversity%20Data%20Publishing%20in%20Bangladeshc">more</a>
-      href: https://eqms.com.bd/public/our-events/12/National%20Dissemination%20Webinar%20on%20Open%20Access%20Biodiversity%20Data%20Publishing%20in%20Bangladesh
+        Join us for the webinar on sharing experiences and raising awareness about biodiversity data mobilisation in Bangladesh. The webinar aims to sensitise participants and also showcase the importance of sharing data.
+        <br><br>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">ICIMOD</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">GBIF</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">Noakhali Science and Technology University</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">EQMS Consulting Limited</span>
       background: /assets/images/news_updates/Call4webinar-Bangladesh-03.09.2025.png
       #imageLicense: Ramesh Kathariya, ICIMOD
       cta:
@@ -47,12 +54,16 @@ news:
       - text: Report
         href: /post/Webinar-on-biodiversity-data-mobilisation-in-Bangladesh
         isPrimary: true
-      categories: [ICIMOD, GBIF, Noakhali Science and Technology University, EQMS Consulting Limited]
+     # categories: [ICIMOD, GBIF, Noakhali Science and Technology University, EQMS Consulting Limited]
 
 #INDIA NATIONAL CONSULTATION
     - title: Webinar on Biodiversity Data Mobilisation and Publishing - India [*4 Sep 2025*]
       description: |
-        This webinar aims to sensitise participants to the challenges of biodiversity data availability, introduce tools and best practices for data mobilisation, and demonstrate how contributions from biodiversity hotspots, such as India, can inform global conservation efforts. See <a href="https://www.atree.org/atree_events/webinar-gbif/">more</a>
+        This webinar aims to sensitise participants to the challenges of biodiversity data availability, introduce tools and best practices for data mobilisation, and demonstrate how contributions from biodiversity hotspots, such as India, can inform global conservation efforts.
+        <br><br>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">ICIMOD</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">GBIF</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">Ashoka Trust for Research in Ecology and the Environment (ATREE)</span>
       href: https://www.atree.org/atree_events/webinar-gbif/
       background: /assets/images/news_updates/Call4Webinar-India-28-08-2025.jpeg
       #imageLicense: Ramesh Kathariya, ICIMOD
@@ -63,12 +74,17 @@ news:
       - text: Report
         href: /post/Webinar-on-biodiversity-data-mobilisation-in-India
         isPrimary: true
-      categories: [ICIMOD, GBIF, ATREE India]
+    #  categories: [ICIMOD, GBIF, ATREE India]
 
 # BHUTAN NATIONAL CONSULTATION      
     - title: Webinar on Biodiversity Data Mobilisation and Publishing - Bhutan [*05 Aug 2025*] # required
       description: |      # required
-        Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility. See <a href="https://www.facebook.com/share/p/1CfAXca64o/">more</a>
+        Join us for a webinar on Biodiversity Data Mobilisation and Training on 05 August 2025, jointly organised by the *National Biodiversity Centre* and the *National Mushroom Centre*, Bhutan, in collaboration with the *ICIMOD* and *GBIF*: The Global Biodiversity Information Facility.
+        <br><br>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">ICIMOD</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">GBIF</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">National Biodiversity Centre - Bhutan</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">National Mushroom Centre - Bhutan</span>
       href: https://nbc.gov.bt/announcements/upcoming-webinar-biodiversity-data-mobilisation-and-publishing/
       # img required
       background: /assets/images/news_updates/Call4webinar-Bhutan-05.08.2025.jpg
@@ -80,11 +96,18 @@ news:
       - text: Report
         href: /post/Webinar-on-biodiversity-data-mobilisation-in-Bhutan
         isPrimary: true
-      categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, National Mushroom Centre - Bhutan] # optional
+     # categories: [ICIMOD, GBIF, National Biodiversity Centre - Bhutan, National Mushroom Centre - Bhutan] # optional
          
     - title: Regional Training on Biodiversity Data Mobilisation *[19 - 21 May 2025]* # required
       description: |      # required
-         Enhancing institutional capacity for biodiversity data management in the Hindu Kush Himalaya using the *Global Biodiversity Information Facility’s* Open Access Platform. See <a href="https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/">more</a>
+         Enhancing institutional capacity for biodiversity data management in the Hindu Kush Himalaya using the *Global Biodiversity Information Facility’s* Open Access Platform.
+         <br><br>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">ICIMOD</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">GBIF</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">National Biodiversity Centre Bhutan</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">Zoological Survey of India</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">National Science Library CAS China</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">ForestAction Nepal</span>
       href: https://www.icimod.org/event/ecosystems-landscapes/regional-institutional-capacity-building-for-biodiversity-data-mobilisation-and-management/
       # img required
       background: /assets/images/news_updates/RgTraining.JPG
@@ -96,7 +119,7 @@ news:
       - text: Report
         href: https://lib.icimod.org/records/yarhk-xky73
         isPrimary: true
-      categories: [ICIMOD, GBIF, National Biodiversity Centre Bhutan, Zoological Survey of India, National Science Library CAS China, ForestAction Nepal] # optional
+  #    categories: [ICIMOD, GBIF, National Biodiversity Centre Bhutan, Zoological Survey of India, National Science Library CAS China, ForestAction Nepal] # optional
 
 
 
@@ -113,7 +136,7 @@ resources:
       # img required
       background: /assets/images/news_updates/BiodiversirtydataPoster.jpg
       #imageLicense: Ramesh Kathariya, ICIMOD
-      categories: [ICIMOD, GBIF] # optional
+   #   categories: [ICIMOD, GBIF] # optional
 
     - title: Unlocking Biodiversity Data for Sustainable Development in the Hindu Kush Himalaya # required
       description: |      # required
@@ -122,7 +145,7 @@ resources:
       # img required
       background: /assets/images/news_updates/Lichen.05.08.2025.jpg
       imageLicense: Ramesh Kathariya, ICIMOD
-      categories: [ICIMOD, Sasha Sunuwar, Bandana Shakya, Ramesh Kathariya] # optional
+#      categories: [ICIMOD, Sasha Sunuwar, Bandana Shakya, Ramesh Kathariya] # optional
 
     - title: Flora of Kailash Sacred Landscape Nepal - An Annotated Checklist. Volume 1 # required
       description: |      # required
@@ -131,7 +154,7 @@ resources:
       # img required
       background: /assets/images/news_updates/floraofKSL.png
       #imageLicense: Ramesh Kathariya, ICIMOD
-      categories: [Tribhuvan University] # optional
+#      categories: [Tribhuvan University] # optional
 
     - title: Pictorial Handbook on Flowers of Sikkim’ Vol-I # required
       description: |      # required
