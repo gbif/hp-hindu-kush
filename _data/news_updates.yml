@@ -6,17 +6,18 @@ news:
     - title: National dissemination webinar on biodiversity data mobilisation in Pakistan [*04 Nov 2025*]
       description: |
         We invite you to join the virtual webinar on biodiversity data mobilisation in Pakistan. The webinar aims to share the information in the global biodiversity database, GBIF. See <a href="https://hindu-kush.hp.gbif-staging.org/news_updates">more</a>
+        <br><br>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">ICIMOD</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">GBIF</span>
+        <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">Khyber Pakhtunkhwa Forest Department</span>
       href: https://hindu-kush.hp.gbif-staging.org/news_updates
       background: /assets/images/news_updates/Call4Webinar_Pakistan.png
       #imageLicense: Ramesh Kathariya, ICIMOD
       cta:
-      - text: Event call
-        href: https://hindu-kush.hp.gbif-staging.org/news_updates
-        isPrimary: false
       - text: Report
         href: /post/Webinar-on-biodiversity-data-mobilisation-in-Pakistan
         isPrimary: true   
-      categories: [ICIMOD, GBIF, Khyber Pakhtunkhwa Forest Department]
+     # categories: [ICIMOD, GBIF, Khyber Pakhtunkhwa Forest Department]
 # NEPAL NATIONAL CONSULTATION    
     - title: Enhancing biodiversity data mobilisation from Nepal - Nepal [*31 Aug - 01 Sep 2025*]
       description: |
