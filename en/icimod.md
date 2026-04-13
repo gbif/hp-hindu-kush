@@ -65,7 +65,7 @@ ICIMOD collaborates with national governments, international organisations, rese
 
 ---
 ### Living Mountain lab
-The Living Mountain Lab (formerly known as the ICIMOD Knowledge Park at Godavari) is a training and demonstration centre established by ICIMOD in 1993. Located in Godavari, Lalitpur, Nepal, the Lab spans 30 hectares and serves as a practical extension of ICIMOD’s research and innovation efforts.
+The [Living Mountain Lab](https://www.icimod.org/living-mountain-lab/) (formerly known as the ICIMOD Knowledge Park at Godavari) is a training and demonstration centre established by ICIMOD in 1993. Located in Godavari, Lalitpur, Nepal, the Lab spans 30 hectares and serves as a practical extension of ICIMOD’s research and innovation efforts.
 
 Its primary goal is to promote sustainable mountain development by testing, showcasing, and disseminating technologies and practices that support climate change adaptation, biodiversity conservation, and improved livelihoods in the Hindu Kush Himalaya (HKH) region.
 
@@ -74,6 +74,6 @@ Its primary goal is to promote sustainable mountain development by testing, show
 - Training programs for farmers, practitioners, and students
 - Repository for plant germplasm and biodiversity resources
 - Community outreach in the Phulchowki watershed
-- [See more ...](https://www.icimod.org/living-mountain-lab/)
+
 
 ---
