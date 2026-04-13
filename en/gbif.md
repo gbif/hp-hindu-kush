@@ -40,7 +40,6 @@ HKHBIF serves as a regional node of GBIF, contributing biodiversity data from th
 - [Species distribution modelling](https://iopscience.iop.org/article/10.1088/2515-7620/adbdaf)
 - [Invasive species tracking](https://www.sciencedirect.com/science/article/abs/pii/S1618866725000986?via%3Dihub)
 - [Environmental policy and planning](https://www.gbif.org/data-use#_recent-uses-of-gbif-mediated-data-in-science-policy)
-- [See more ...](https://www.gbif.org/data-use#_hot-off-the-scientific-press)
 
 ---
 
