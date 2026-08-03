@@ -1,0 +1,92 @@
+// =============================================================================
+// ICIMOD BRAND OVERRIDES
+// Source: ICIMOD Brand Guidelines v1.0 (Colors p.26-27, Typography p.34-35)
+// This file only ADDS overrides on top of the base "algae" theme
+// (gbif/jekyll-hp-base-theme). It does not touch the theme's own files.
+// =============================================================================
+
+// -----------------------------------------------------------------------------
+// 1. TYPOGRAPHY
+// Brand pairing: Source Sans Pro (headlines/UI) + Source Serif Pro (body/intro)
+// Both are open (SIL OFL) and available on Google Fonts, so no licensing issue
+// self-hosting or linking via the Fonts CDN.
+// -----------------------------------------------------------------------------
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;900&family=Source+Serif+4:wght@400;600&display=swap');
+
+$icimod-font-sans: 'Source Sans 3', 'Source Sans Pro', -apple-system, sans-serif;
+$icimod-font-serif: 'Source Serif 4', 'Source Serif Pro', Georgia, serif;
+
+body,
+p,
+.body-text,
+.pageMarkdown p {
+  font-family: $icimod-font-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.navbar-item,
+.button,
+.hero-title,
+.card-title,
+.feature-title {
+  font-family: $icimod-font-sans;
+  font-weight: 700;
+}
+
+// Header 4 / eyebrow-style labels: brand guide specifies Bold, all caps
+.preTitle,
+.eyebrow,
+.kicker {
+  font-family: $icimod-font-sans;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+// -----------------------------------------------------------------------------
+// 2. COLOR PALETTE
+// ICIMOD Blue (#036cb6) is already set as the theme's `primary` color in
+// _config.yml (algae.style.colors.primary) — that drives buttons/links
+// site-wide automatically. The variables below expose the REST of the
+// official palette for use in custom components (tags, charts, callouts)
+// that the base theme doesn't already theme for us.
+// -----------------------------------------------------------------------------
+$icimod-blue:   #036cb6; // primary — buttons, links, logo background
+$icimod-green:  #49b449;
+$icimod-yellow: #fdb714;
+$icimod-red:    #ed1a3b;
+$icimod-teal:   #00acc6;
+$icimod-brown:  #7f5b43;
+$icimod-gray:   #333133; // body copy / typography color per brand guide
+
+// Darker "secondary" set — brand guide reserves these for charts/graphs,
+// not as lead colors for publications/pages.
+$icimod-blue-secondary:   #004d8e;
+$icimod-green-secondary:  #007f3e;
+$icimod-yellow-secondary: #f78f1e;
+$icimod-red-secondary:    #a70a24;
+$icimod-teal-secondary:   #00899e;
+$icimod-brown-secondary:  #663b28;
+
+body {
+  color: $icimod-gray;
+}
+
+// Utility classes for the six brand colors, e.g. for category tags on the
+// Champions page ({{ categories: [NBC, Bhutan] }}) or dashboard stat cards.
+.tag-blue    { background-color: $icimod-blue; color: #fff; }
+.tag-green   { background-color: $icimod-green; color: #fff; }
+.tag-yellow  { background-color: $icimod-yellow; color: $icimod-gray; } // brand guide: avoid white text on yellow
+.tag-red     { background-color: $icimod-red; color: #fff; }
+.tag-teal    { background-color: $icimod-teal; color: #fff; }
+.tag-brown   { background-color: $icimod-brown; color: #fff; }
+
+// -----------------------------------------------------------------------------
+// 3. LOGO PLACEMENT RULE
+// Brand guide: the logo may only sit on white, on an ICIMOD primary-color
+// background, or on an uncluttered photo. Never on a non-brand color.
+// If the navbar background isn't already white or $icimod-blue, override here:
+// -----------------------------------------------------------------------------
+.navbar {
+  background-color: #ffffff;
+}
