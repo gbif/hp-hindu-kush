@@ -67,10 +67,12 @@ AboutHKHBIF:
   reverse: false
   title: "About HKHBIF"
   description: |      # required
-    The Hindu Kush Himalayan Biodiversity Information Facility (HKHBIF), hosted by ICIMOD, is a regional platform that mobilises and publishes biodiversity data from across the Hindu Kush Himalaya. HKHBIF is an associate node of the Global Biodiversity Information Facility (GBIF) that enables researchers, institutions, and citizen scientists in eight countries to share species records and ecological datasets that are globally accessible, standardised, and citable.
-    
-    HKHBIF builds a collaborative network of data contributors, promotes open biodiversity data, and strengthens regional capacity for evidence-based conservation and sustainable development. By filling critical data gaps in one of the world’s most biodiverse yet underrepresented regions, it supports research, policy-making, and global biodiversity targets.
-    
+    The Hindu Kush Himalayan Biodiversity Information Facility (HKHBIF), hosted by ICIMOD, is a regional platform that mobilises, integrates, and publishes biodiversity data from across the Hindu Kush Himalaya. As an associate node of the Global Biodiversity Information Facility (GBIF), HKHBIF connects researchers, academic institutions, government agencies, conservation organisations, and citizen scientists across the eight countries of the region. It enables them to share species occurrence records, ecological observations, and other biodiversity datasets in formats that are standardised, citable, and accessible to users worldwide.
+
+    HKHBIF is building a regional network of data holders and contributors while encouraging a culture of open and responsible biodiversity data sharing. It also strengthens institutional and individual capacity in biodiversity data management, data publishing, quality assurance, and the use of open data for research and decision-making.
+
+    By bringing together biodiversity information that is often scattered across institutions, research projects, and national systems, HKHBIF helps address major knowledge gaps in one of the world’s most biodiverse yet underrepresented regions. The data made available through the platform can support scientific research, conservation planning, environmental assessment, policy development, and progress towards national and global biodiversity targets.
+        
   # img required
   background: https://inaturalist-open-data.s3.amazonaws.com/photos/673922108/large.jpg
   imageLicense: CC BY-NC 4.0
