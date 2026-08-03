@@ -20,7 +20,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hindu Kush Himalaya Biodiversity Information Facility # the title of your site should go here
+title: Hindu Kush Himalayan Biodiversity Information Facility # the title of your site should go here
 
 description: >- # this means to ignore newlines (until baseurl:)
   Write an awesome description for your new site here. You can edit this
@@ -55,7 +55,10 @@ algae:
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#25610a"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      primary: "#036cb6"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      # ICIMOD's own logo/wordmark is drawn in #036cb6 (see /assets/images/logos/logo.svg).
+      # The previous value (#25610a, a dark green) does not match ICIMOD's brand blue and
+      # should be confirmed against ICIMOD's official brand guideline before final sign-off.
       # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
