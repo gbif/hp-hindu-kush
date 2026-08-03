@@ -3,9 +3,8 @@ permalink: /gbif
 lang-ref: gbif
 title: Global Biodiversity Information Facility
 description: Free and open access to biodiversity data
-background: /assets/images/placeholders/pageholder_about.jpg
-imageLicense: |
-  Ramesh Kathariya | ICIMOD
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/703197389/large.jpg
+imageLicense: CC BY-NC 4.0
 height: 70vh
 
 composition:
