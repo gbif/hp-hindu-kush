@@ -1,9 +1,9 @@
 ---
 permalink: /icimod
 lang-ref: icimod
-title: ICIMOD
+title: International Centre for Integrated Mountain Development
 description: For mountains and people
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/710196504/medium.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/710198936/large.jpg
 imageLicense: "CC BY-NC 4.0"
 height: 70vh
 
