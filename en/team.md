@@ -3,8 +3,8 @@ permalink: /team
 lang-ref: team
 title: "Meet our Team"
 description: Our dedicated team is working together to enhance biodiversity data sharing and conservation efforts in the HKH region.
-background: /assets/images/placeholders/dragonfly.jpg
-imageLicense: "Ramesh Kathariya, ICIMOD"
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/673921507/large.jpg
+imageLicense: "CC BY-NC 4.0"
 height: 72vh
 
 composition:
