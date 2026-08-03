@@ -4,8 +4,8 @@ permalink: /champions
 lang-ref: champions
 title: "Meet our Biodiversity Data Champions"
 description: Our champions are working tirelessly to fill biodiversity data gaps in their countries.
-background: /assets/images/placeholders/caterpillar.jpg
-imageLicense: "Ramesh Kathariya, ICIMOD"
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/702725355/large.jpg
+imageLicense: "CC BY-NC 4.0"
 height: 70vh
 
 
