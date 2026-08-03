@@ -1,20 +1,20 @@
-stats:
-  klass: contentTypesStat
-  # title: "type: stats"
-  # description: |      # required
-  #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
-  features:
-    - title: <span data-ajax-url="https://hindu-kush.hp.gbif-staging.org/occurrence/search?view=dashboard">4,38</span>
-      description: Publishers
-      background: /assets/images/front/butterflyPublisherfront.jpg
-      href: https://hindu-kush.hp.gbif-staging.org/occurrence/search?view=dashboard
-    - title: <span data-ajax-url="https://hindu-kush.hp.gbif-staging.org/occurrence/search?view=dashboard">9,298,194</span>
-      description: Occurrence
-      background: /assets/images/front/bulbulOccurencefront.JPG
-    - title: "58,145"
-      description: Species
-      background: /assets/images/front/beeSpeciesfront.jpg
-      href: /collection/search
+# stats:
+#   klass: contentTypesStat
+#   # title: "type: stats"
+#   # description: |      # required
+#   #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
+#   features:
+#     - title: <span data-ajax-url="https://hindu-kush.hp.gbif-staging.org/occurrence/search?view=dashboard">4,38</span>
+#       description: Publishers
+#       background: /assets/images/front/butterflyPublisherfront.jpg
+#       href: https://hindu-kush.hp.gbif-staging.org/occurrence/search?view=dashboard
+#     - title: <span data-ajax-url="https://hindu-kush.hp.gbif-staging.org/occurrence/search?view=dashboard">9,298,194</span>
+#       description: Occurrence
+#       background: /assets/images/front/bulbulOccurencefront.JPG
+#     - title: "58,145"
+#       description: Species
+#       background: /assets/images/front/beeSpeciesfront.jpg
+#       href: /collection/search
 
 
 couldBeAnyName:
