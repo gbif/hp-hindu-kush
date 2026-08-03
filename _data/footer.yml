@@ -21,6 +21,10 @@ columns:
       [OpenRefine](https://openrefine.org/)
       
       [GEOPICK](https://geopick.gbif.org/)
+
+      [Data validator](https://tools.gbif.org/tools/data-validator)
+
+      [GRSciColl](https://scientific-collections.gbif.org/)
   
   - name: Social Media
     description: | # Can be Markdown
@@ -39,6 +43,8 @@ columns:
     
 other: |
   [HKHBIF at ICIMOD](https://www.icimod.org/ecosystem-services/hkh-bif/)
+
+  [Regional Database System](http://rds.icimod.org/)
   
 # EXAMPLE
 #- name: Group name
