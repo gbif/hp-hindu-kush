@@ -72,9 +72,8 @@ AboutHKHBIF:
     HKHBIF builds a collaborative network of data contributors, promotes open biodiversity data, and strengthens regional capacity for evidence-based conservation and sustainable development. By filling critical data gaps in one of the world’s most biodiverse yet underrepresented regions, it supports research, policy-making, and global biodiversity targets.
     
   # img required
-  background: /assets/images/placeholders/bluethroatedBarbet.jpg
-  imageLicense: |
-    Ramesh Kathariya, ICIMOD
+  background: https://inaturalist-open-data.s3.amazonaws.com/photos/673922108/large.jpg
+  imageLicense: CC BY-NC 4.0
   cta:
   - text: Explore datasets
     href: /collection/search
@@ -90,9 +89,8 @@ becomePublisher:
     
     Join a growing network of contributors working to make biodiversity data open, accessible, and impactful. Your data matters: *share it, cite it, and let it drive change*.
   
-  background: /assets/images/front/bulbulAboutHKHBIF.jpg
-  imageLicense: |
-    Ramesh Kathariya, ICIMOD
+  background: https://inaturalist-open-data.s3.amazonaws.com/photos/708196631/large.jpg
+  imageLicense: CC BY-NC 4.0
   cta:
   - text:  Start Publishing
     href: https://www.gbif.org/become-a-publisher
