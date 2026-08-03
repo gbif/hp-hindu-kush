@@ -20,7 +20,7 @@ composition:
   - type: dashboard
     data: dashboard.dashboard
   - type: split
-    data: examples.herbariumImageExample
+    data: examples.AboutHKHBIF
   - type: split
     data: examples.becomePublisher
   - type: features
