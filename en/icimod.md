@@ -18,20 +18,20 @@ composition:
         - title: "Climate and Environmental Risks"
           description: >
             Unprecedented and accelerating changes to water, cryosphere, land and air across the Hindu Kush Himalayas pose a major threat to people, nature and economies in Asia. We are setting out to build greater understanding of these risks locally, nationally, regionally and globally, and to increase communities’ and governments’ resilience and capacity to respond.
-          background: /assets/images/news_updates/RgTraining.JPG # TEMP FIX: was /assets/img/Haeckel_Caulerpa_racemosa.jpeg — broken path (no /assets/img/ folder exists) AND an unrelated Victorian algae illustration, not HKH photography. Swap for a purpose-shot climate/risk-fieldwork photo when available.
-          imageLicense: ICIMOD
+          background: https://inaturalist-open-data.s3.amazonaws.com/photos/710200892/large.jpg
+          imageLicense: CC BY-NC 4.0
           href: https://www.icimod.org/climate-environment-risks/
         - title: "Resilient Economies and Landscapes"
           description: >
             Wildlife, rivers and springs, rangelands and forests across the Hindu Kush Himalaya are in crisis, compounding the existing socio-economic vulnerability of millions of people in the mountains. ICIMOD’s mountain economies and landscapes strategic group works with governments and communities to encourage and sustain low-carbon, mountain livelihoods, enterprises and settlements, and to regenerate and restore biodiversity and ecosystems with and for the mountain peoples who rely on nature.
-          background: /assets/images/optimized/Erythrinaarborescens.jpg # TEMP FIX: was a broken path to an unrelated algae illustration. Currently reuses the homepage hero — swap for a dedicated landscape/livelihoods photo when available.
-          imageLicense: Ramesh Kathariya, ICIMOD
+          background: https://inaturalist-open-data.s3.amazonaws.com/photos/691467652/large.jpg
+          imageLicense: CC BY-NC 4.0
           href: https://www.icimod.org/resilient-economies-landscapes/
         - title: "Regional Action and Global Advocacy"
           description: >
             With scientists predicting devastating near-term impacts of climate change on people’s water and food security, livelihoods and energy sources, and nature already in rapid decline across the Hindu Kush Himalaya, urgent international action, financial support and regional cooperation is needed to help communities and governments prepare and adapt. We are working to ensure the crises faced by the Hindu Kush Himalaya are met with the commensurate urgency nationally, regionally and globally.
-          background: /assets/images/optimized/Event_GroupPhoto.jpg # TEMP FIX: was a broken path to an unrelated algae illustration. A real regional workshop/advocacy photo — good thematic fit.
-          imageLicense: Jitendra Bajracharya, ICIMOD
+          background: https://inaturalist-open-data.s3.amazonaws.com/photos/673922404/large.jpg
+          imageLicense: CC BY-NC 4.0
           href: https://www.icimod.org/regional-global-advocacy/
 ---
 
