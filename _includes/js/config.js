@@ -35,7 +35,7 @@ var siteConfig = {
         "enableInfoPopup": false
     },
     "theme": {
-        "primary": "#001972",
+        "primary": "#036cb6",
         "borderRadius": 3,
         "stickyOffset": "0px"
     },
