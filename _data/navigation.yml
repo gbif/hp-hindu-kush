@@ -1,18 +1,25 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
+#
+# NOTE on structure: ICIMOD.org uses a multi-level mega-menu (e.g. About us >
+# Who we are > Meet the team), but the algae theme's navbar dropdown is
+# one level deep only (see comment below) — that's a theme constraint, not a
+# styling choice. So instead of copying ICIMOD's depth, this groups the
+# equivalent content (About, GBIF, Team, Champions) into ONE dropdown, the
+# same way ICIMOD groups "Meet the team" and "History" under "Who we are".
 
 - text: About
   menu: # Dropdown menu (one level deep only)
-  - text: GBIF
-    href: /gbif
   - text: ICIMOD
     href: /icimod
-- text: Team
-  href: /team
+  - text: GBIF
+    href: /gbif
+  - text: Meet the Team
+    href: /team
+  - text: Our Champions
+    href: /champions
 - text: Data Portal
   href: /occurrence/search
-- text: Publishers
-  href: https://www.gbif.org/participant/320
-- text: Our Champions
-  href: /champions
 - text: News and Updates
   href: /news_updates
+- text: ICIMOD on GBIF.org
+  href: https://www.gbif.org/participant/320
