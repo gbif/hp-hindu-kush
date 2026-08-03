@@ -4,8 +4,8 @@ layout: compose
 preTitle: Regional Data Portal
 title: Hindu Kush Himalayan Biodiversity Information Facility
 description: Encouraging sharing and use of biodiversity information!
-background:  "assets/images/placeholders/home/Erythrinaarborescens.JPG"
-imageLicense: Ramesh Kathariya, ICIMOD
+background:  "https://inaturalist-open-data.s3.amazonaws.com/photos/691481403/original.jpg"
+imageLicense: CC BY-NC 4.0
 height: 81vh
 cta:
   - text: Records
