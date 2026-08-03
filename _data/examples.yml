@@ -27,39 +27,39 @@ couldBeAnyName:
         Promote understanding of biodiversity's significance in the HKH region to encourage conservation efforts.
 #      href: /hkhbif
       # img required
-      background: /assets/images/placeholders/Raise_Awareness.jpg
-      #imageLicense: Ramesh Kathariya, ICIMOD
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/702725217/large.jpg
+      #imageLicense: CC BY-NC 4.0
       # categories: [drawings] # optional
     - title: Global Communication # required
       description: |      # required
         Advocate for the worldwide sharing of biodiversity data to inform the public and decision-makers about its importance.
 #      href: /hkhbif
-      background: /assets/images/placeholders/Global_Communication.jpg
-      #imageLicense: Ramesh Kathariya, ICIMOD
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/691455113/large.jpg
+      #imageLicense: CC BY-NC 4.0
     - title: Organisational Strengthening # required
       description: |      # required
         Enhance HKHBIF's presence and expand its network of data holders and publishers to improve collaboration and data accessibility.
 #      href: /hkhbif
-      background: /assets/images/placeholders/Organisational_Strengthening.jpg
-      #imageLicense: Ramesh Kathariya, ICIMOD
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/691467598/large.jpg
+      #imageLicense: CC BY-NC 4.0
     - title: Partnership Development # required
       description: |      # required
         Seek collaborations with other Asian regional nodes to strengthen regional cooperation and resource sharing in biodiversity initiatives.
 #      href: /hkhbif
-      background: /assets/images/placeholders/Partnership_Development.jpg
-      #imageLicense: Ramesh Kathariya, ICIMOD
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/687055707/large.jpg
+      #imageLicense: CC BY-NC 4.0
     - title: Showcase Biodiversity # required
       description: |      # required
         Highlight and promote the unique biodiversity of HKH member countries to raise awareness and support for conservation efforts.
 #      href: /hkhbif
-      background: /assets/images/placeholders/Showcase_Biodiversity.jpg
-      #imageLicense: Ramesh Kathariya, ICIMOD
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/691455056/large.jpg
+      #imageLicense: CC BY-NC 4.0
     - title: Open Data # required
       description: |      # required
         Encourage the publication of biodiversity data in open-access formats to facilitate global sharing and accessibility.
 #      href: /hkhbif
-      background: /assets/images/placeholders/Open_Data.jpg
-      #imageLicense: Ramesh Kathariya, ICIMOD  
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/687055499/large.jpg
+      #imageLicense: CC BY-NC 4.0  
 
       
 
