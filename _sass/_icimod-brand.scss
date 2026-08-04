@@ -68,8 +68,49 @@ $icimod-red-secondary:    #a70a24;
 $icimod-teal-secondary:   #00899e;
 $icimod-brown-secondary:  #663b28;
 
+// Measured directly from icimod.org's own hero section (pixel-sampled, not
+// from the brand PDF's swatch page): the solid-color hero/panel blocks on
+// their live site render a darker navy (~#0f3f6c average of several samples)
+// than the #036cb6 button/link blue. Kept distinct here for large full-bleed
+// color panels (e.g. a heroImage block with no photo) vs. buttons/links,
+// which should stay on #036cb6 to match the logo and the brand PDF's stated
+// primary. Confirm with ICIMOD before treating this as official.
+$icimod-hero-navy: #0f3f6c;
+
 body {
   color: $icimod-gray;
+}
+
+// -----------------------------------------------------------------------------
+// 4. BUTTON STYLE
+// icimod.org consistently uses an OUTLINED button, not a solid fill:
+// transparent background, colored (or white, on dark/photo backgrounds)
+// border + text, uppercase, letter-spaced — used for "LEARN MORE",
+// "VIEW ALL", "SIGN UP" etc. Confirmed by direct visual inspection of the
+// live site (button borders + caps text on both photo and white
+// backgrounds). Selectors below are broad/defensive since this repo doesn't
+// vendor the remote theme's button markup — verify against the rendered
+// staging HTML and narrow the selector once deployed.
+// -----------------------------------------------------------------------------
+.button,
+.btn,
+a.button,
+a.btn,
+[class*="cta"],
+[class*="learn-more"],
+[class*="view-all"] {
+  background-color: transparent !important;
+  border: 1px solid currentColor;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-family: $icimod-font-sans;
+  font-weight: 700;
+  padding: 0.6em 1.4em;
+
+  &:hover {
+    background-color: rgba(3, 108, 182, 0.08) !important;
+  }
 }
 
 // Utility classes for the six brand colors, e.g. for category tags on the
