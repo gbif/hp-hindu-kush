@@ -51,4 +51,4 @@ HKHBIF serves as a regional node of GBIF, contributing biodiversity data from th
 
 ---
 
-Visit [GBIF.org](www.gbif.org) to learn more.
+Visit GBIF.org to learn more.
