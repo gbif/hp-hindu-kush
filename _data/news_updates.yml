@@ -10,7 +10,7 @@ news:
         <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">ICIMOD</span>
         <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-right:6px; margin-bottom:6px;">GBIF</span>
         <span style="display:inline-block; background:#e2e8f0; color:#475569; padding:2px 10px; border-radius:12px; font-size:12px; margin-bottom:6px;">Khyber Pakhtunkhwa Forest Department</span>
-      href: https://hindu-kush.hp.gbif-staging.org/news_updates
+      #href: https://hindu-kush.hp.gbif-staging.org/news_updates
       background: /assets/images/news_updates/Call4Webinar_Pakistan.png
       #imageLicense: Ramesh Kathariya, ICIMOD
       cta:
